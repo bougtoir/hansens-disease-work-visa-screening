@@ -154,3 +154,164 @@
 ---
 
 *作成日: 2026年3月*
+
+---
+
+# English Translation
+
+---
+
+# Target journal candidate list
+
+## Theme: “Administrative requirements that deviate from standard medical care” — Scoping review of Hansen's disease screening in work visa medical examinations
+
+---
+
+## Recommendation level: ★★★ (best candidate)
+
+### 1. PLoS Neglected Tropical Diseases
+| Item | Details |
+|------|------|
+| IF (2024) | 3.4 |
+| OA | Fully open access |
+| APC | ~$2,590 USD |
+| Peer review period | Average 2-3 months |
+| Reason for suitability | Major journals that publish Hansen's disease research. Actively publishes papers on leprosy and discrimination, including Nanri (2022) ``Addressing the human rights issue of leprosy through the United Nations Special Rapporteur.'' Scoping reviews were accepted in both the Viewpoints and Review sections. **Journals that are most directly related to the theme** |
+| Publications | Nanri T (2022) PLoS Negl Trop Dis 16(3):e0010201; Abdul Rahman N et al. (2022) Same magazine — Systematic review of living experiences with leprosy |
+| Points to note | Framing it as a "policy review" is important. It would be good to strengthen the comparison with epidemiological data |
+### 2. The Lancet Global Health
+| Item | Details |
+|------|------|
+| IF (2024) | 34.3 |
+| OA | Fully open access |
+| APC | None (Lancet burden) |
+| Review period | Rapid (several weeks to 2 months) |
+| Reasons for suitability | Strong in the intersection of global health policy and human rights. UCL-Lancet Commission on Migration and Health (2018) has been published. The theme "Administrative demands that diverge from standard medical care" can be expected to have a high impact in Comment or Viewpoint format.
+| Post format | **Comment (1,000 words) or Viewpoint (2,000 words)** is realistic. Full paper is extremely competitive |
+| Points to note | The acceptance rate is very low (<10%). Posting in short report format is strategic |
+
+### 3. Health and Human Rights Journal (Harvard FXB Center)
+| Item | Details |
+|------|------|
+| IF (2024) | 2.1 |
+| OA | Fully open access |
+| APC | None |
+| Peer review period | 3-6 months |
+| Why it's relevant | The only major journal dedicated to the intersection of health and human rights. Published a paper (Bisaillon 2010) that analyzes the human rights impact of Canada's HIV immigrant screening policy. **Most directly compatible with the theme of "administrative demands that deviate from standard medical care"** |
+| Publications | Policy analyzes on immigrant health screening and human rights are regularly published |
+| Points to note | Although the IF is somewhat low, the policy influence is high. Cited by UN special rapporteurs and human rights institutions |
+
+---
+
+## Recommendation level: ★★☆ (Strong candidate)
+
+### 4. International Journal for Equity in Health
+| Item | Details |
+|------|------|
+| IF (2024) | 4.1 |
+| OA | Fully open access (BMC/Springer Nature) |
+| APC | ~$2,890 USD |
+| Peer review period | Median 7 days (initial judgment); Overall 3-4 months |
+| Reasons for suitability | Focus on health equity and discrimination. Many papers have been published on health disparities among immigrants. Scoping review format welcome |
+| Points to note | Need to be framed in a health equity framework |
+
+### 5. Journal of Immigrant and Minority Health (Springer)
+| Item | Details |
+|------|------|
+| IF (2024) | 1.8 |
+| OA | Hybrid |
+| APC | ~$3,390 USD (when selecting OA) |
+| Peer review period | Median 18 days (initial judgment) |
+| Why it's relevant | The only major journal dedicated to immigrant health. Published a scoping review of COVID-19 and immigration policy (Adewoye et al. 2025). Infectious disease special issue available |
+| Publication results | Papers related to immigration medical examination policy are regularly published |
+| Points to note | Although the IF is somewhat low, recognition in the immigrant health professional community is high |
+
+### 6. BMC Public Health
+| Item | Details |
+|------|------|
+| IF (2024) | 3.5 |
+| OA | Fully open access (BMC/Springer Nature) |
+| APC | ~$2,890 USD |
+| Peer review period | 3-5 months |
+| Reason for suitability | Wide readership. Suitable for papers that deal with the discrepancy between public health policy and epidemiological evidence. Many scoping reviews published |
+| Points to note | Competition is somewhat intense, but the acceptance rate is relatively high |
+
+### 7. Travel Medicine and Infectious Disease
+| Item | Details |
+|------|------|
+| IF (2024) | 5.3 |
+| OA | Hybrid (Elsevier) |
+| APC | ~$3,600 USD (when OA is selected) |
+| Peer review period | 2-4 months |
+| Reason for suitability | Directly linked to infectious disease screening policy for immigrants. Noori et al. (2021) “Strengthening infectious disease screening for immigrants in Europe” is published. The intersection of travel medicine and entry screening |
+| Points to note | Framing closer to clinical medicine is required |
+
+---
+
+## Recommendation level: ★☆☆ (Completion candidate)
+
+### 8. Leprosy Review
+| Item | Details |
+|------|------|
+| IF (2024) | 0.8 |
+| OA | Hybrid |
+| APC | Low price |
+| Peer review period | 2-4 months |
+| Reason for suitability | Specialized journal for Hansen's disease. Policy analysis and human rights issues are also covered. Direct reach to expert communities |
+| Points to note | Although the IF is low, it is a specialized magazine read by ILEP/WHO personnel |
+
+### 9. International Journal of Environmental Research and Public Health (MDPI)
+| Item | Details |
+|------|------|
+| IF (2024) | 3.4 |
+| OA | Fully Open Access (MDPI) |
+| APC | ~$2,500 USD |
+| Review period | Rapid (4-6 weeks) |
+| Reasons for relevance | Hong et al. (2017) “Impact of U.S. Immigration Medical Screening on Refugee Policy” has been published. Review is relatively quick |
+| Notes | There has been some criticism of the MDPI journal's reputation. However, the number of citations for published papers is stable |
+
+### 10. Globalization and Health (BMC)
+| Item | Details |
+|------|------|
+| IF (2024) | 4.5 |
+| OA | Fully open access |
+| APC | ~$2,890 USD |
+| Peer review period | 3-5 months |
+| Reason for suitability | Intersection area of globalization and health. Published scoping review on healthcare access for immigrants |
+
+---
+
+## Posting strategy suggestions
+
+### Strategy A: High-impact short report + full paper two-tier strategy
+1. Submit a short report of the main findings as a Comment/Viewpoint (1,000-2,000 words) to **The Lancet Global Health**
+2. Submit a full paper (PRISMA-ScR compliant) to **PLoS Neglected Tropical Diseases** simultaneously or subsequently
+**Why:** Maximize policy advocacy effectiveness with Lancet's high visibility, while exposing detailed methodologies and complete datasets in PLoS NTDs.
+
+### Strategy B: Single post (most reliable)
+1. Submitted as a full paper to **PLoS Neglected Tropical Diseases**
+
+**Why:** Best thematic fit and direct reach to the leprosy research community and policy makers. Widespread use of OA. Most likely to be adopted.
+
+### Strategy C: Human rights-focused framing
+1. Submitted as a full paper to **Health and Human Rights Journal**
+
+**Reason:** Analyzing "administrative demands that deviate from standard medical care" from the perspective of human rights violations. No APC and no financial burden. Direct influence on UN human rights institutions.
+
+---
+
+## Thematic framing suggestions
+
+Based on the theme of “administrative demands that diverge from standard medical care,” the framing was adjusted depending on the posting destination:
+
+| Submission destination | Recommended framing |
+|--------|-----------------|
+| PLoS NTDs | “Leprosy as an NTD (Neglected Tropical Disease): Global Mapping of Unscientific Screening in Entry Medical Examinations” |
+| Lancet Global Health | “Leprosy remains a barrier to entry in 20 countries: evidence-based reform of immigration health policies” |
+| Health and Human Rights | “Immigration restrictions based on curable diseases: Does leprosy screening meet international human rights standards?” |
+| Int J Equity in Health | “Disease-specific screening in work visa medical examinations: A global analysis from a health equity perspective” |
+| Travel Med Infect Dis | "Screening for Hansen's disease in pre-entry medical examination: Actual deviation from WHO guidelines" |
+
+---
+
+*Creation date: March 2026*
