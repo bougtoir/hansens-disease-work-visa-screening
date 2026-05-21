@@ -39,9 +39,8 @@ def create_cover_letter():
     run = p.add_run('Re: ')
     run.bold = True
     p.add_run(
-        'Transfer submission — "Hansen\u2019s disease screening in work visa medical examinations: '
-        'a global scoping review of administrative requirements diverging from standard medical '
-        'practice, with attention to the disproportionate burden on Southeast Asian migrant workers"'
+        'Transfer submission — "Policies without evidence, populations without recourse: '
+        'Hansen\u2019s disease screening in work visa medical examinations across 197 countries"'
     )
 
     doc.add_paragraph()

@@ -75,10 +75,9 @@ def create_pgph_full_en():
     # ==== TITLE PAGE ====
     p = doc.add_paragraph()
     run = p.add_run(
-        "Hansen\u2019s disease screening in work visa medical examinations: "
-        "a global scoping review of administrative requirements diverging from "
-        "standard medical practice, with attention to the disproportionate burden "
-        "on Southeast Asian migrant workers"
+        "Policies without evidence, populations without recourse: "
+        "Hansen\u2019s disease screening in work visa medical examinations "
+        "across 197 countries"
     )
     run.font.size = Pt(16)
     run.bold = True
@@ -90,7 +89,7 @@ def create_pgph_full_en():
     run = p.add_run('Short title: ')
     run.bold = True
     run.font.size = Pt(11)
-    p.add_run("Hansen\u2019s disease screening in work visa medical exams").font.size = Pt(11)
+    p.add_run("Policies without evidence, populations without recourse").font.size = Pt(11)
 
     doc.add_paragraph()
 
