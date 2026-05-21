@@ -337,6 +337,7 @@ def create_pptx_en():
         ['', 'Taiwan', 'Work Permit Regulations', 'Certification of absence', '\u2014'],
         ['', 'Malaysia', 'FOMEMA Requirements', 'Medical unfitness', '\u2014'],
         ['', 'Philippines', 'OWWA Requirements', 'Certification of absence', '\u2014'],
+        ['', 'Hong Kong SAR', 'Immigration Ordinance Cap.115', 'Medical inadmissibility', '\u2014'],
         ['Africa', 'South Africa', 'Immigration Act 2002; BI-811', 'Certification of absence', '2002'],
         ['', 'Namibia', 'Immigration Control Act', 'Medical prohibition', '1993'],
         ['Europe', 'Russia', 'Federal Law No.115-FZ', 'Deportation ground', '2002'],
@@ -345,7 +346,6 @@ def create_pptx_en():
         ['', 'Barbados', 'Immigration Act Cap.190', 'Medical prohibition', '\u2014'],
         ['', 'US Virgin Islands', 'US Federal Law', 'Class A condition*', '\u2014'],
         ['South Asia', 'India', 'State-level Employment Acts', 'Employment restriction', 'Various'],
-        ['', 'Hong Kong SAR', 'Immigration Ordinance Cap.115', 'Medical inadmissibility', '\u2014'],
     ]
     add_table_slide(prs,
         "Table 1: Countries with Hansen's Disease in Work Visa Medical Requirements (n=20)",

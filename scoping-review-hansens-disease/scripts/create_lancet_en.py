@@ -273,6 +273,7 @@ def create_lancet_comment_en():
         ['', 'Taiwan', 'Employment Gold Card / Work Permit Regulations', 'Certification of absence'],
         ['', 'Malaysia', 'FOMEMA Medical Examination Requirements', 'Medical unfitness'],
         ['', 'Philippines', 'Overseas Workers Welfare Admin. Requirements', 'Certification of absence'],
+        ['', 'Hong Kong SAR', 'Immigration Ordinance (Cap. 115)', 'Medical inadmissibility'],
         ['Africa', 'South Africa', 'Immigration Act 2002; Form BI-811', 'Certification of absence'],
         ['', 'Namibia', 'Immigration Control Act 1993', 'Medical prohibition'],
         ['Europe', 'Russia', 'Federal Law No. 115-FZ (2002)', 'Deportation ground'],
@@ -281,7 +282,6 @@ def create_lancet_comment_en():
         ['', 'Barbados', 'Immigration Act (Cap. 190)', 'Medical prohibition'],
         ['', 'US Virgin Islands', 'Follows US federal immigration law', 'Class A condition*'],
         ['South Asia', 'India', 'Various state employment laws; 108 discriminatory laws (ILEP)', 'Employment restriction'],
-        ['', 'Hong Kong SAR', 'Immigration Ordinance (Cap. 115)', 'Medical inadmissibility'],
     ]
     
     for row_data in data:

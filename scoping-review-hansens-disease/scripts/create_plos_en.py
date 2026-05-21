@@ -482,7 +482,7 @@ def create_plos_full_en():
     add_body(doc,
         'Twenty countries and territories explicitly name Hansen\u2019s disease (leprosy) in their work visa '
         'medical requirements (Table 1). These are distributed across six geographic regions, with the '
-        'largest concentration in the GCC/Middle East (6 countries, 30%) and East/Southeast Asia (5 countries, 25%).'
+        'largest concentration in the GCC/Middle East (6 countries, 30%) and East/Southeast Asia (6 countries, 30%).'
     )
 
     # TABLE 1
@@ -520,6 +520,7 @@ def create_plos_full_en():
         ['', 'Taiwan', 'Work Permit Regulations', 'Certification of absence', '\u2014'],
         ['', 'Malaysia', 'FOMEMA Requirements', 'Medical unfitness', '\u2014'],
         ['', 'Philippines', 'OWWA Requirements', 'Certification of absence', '\u2014'],
+        ['', 'Hong Kong SAR', 'Immigration Ord. Cap. 115', 'Medical inadmissibility', '\u2014'],
         ['Africa', 'South Africa', 'Immigration Act 2002; BI-811', 'Certification of absence', '2002'],
         ['', 'Namibia', 'Immigration Control Act', 'Medical prohibition', '1993'],
         ['Europe', 'Russia', 'Federal Law No. 115-FZ', 'Deportation ground', '2002'],
@@ -528,7 +529,6 @@ def create_plos_full_en():
         ['', 'Barbados', 'Immigration Act Cap. 190', 'Medical prohibition', '\u2014'],
         ['', 'US Virgin Islands', 'US Federal Law', 'Class A condition*', '\u2014'],
         ['South Asia', 'India', 'State employment laws', 'Employment restriction', 'Various'],
-        ['', 'Hong Kong SAR', 'Immigration Ord. Cap. 115', 'Medical inadmissibility', '\u2014'],
     ]
     add_table_data(table, data, font_size=7)
 
@@ -599,7 +599,7 @@ def create_plos_full_en():
         'The regional distribution of Hansen\u2019s disease screening requirements reveals distinct geographic '
         'patterns (Figure 6). The GCC/Middle East region accounts for 30% of countries with Hansen\u2019s disease '
         'screening (6 of 20), but their unified GAMCA system means the actual number of individuals affected '
-        'is far greater than any other region. East and Southeast Asia (25%, 5 countries) represents the '
+        'is far greater than any other region. East and Southeast Asia (30%, 6 countries) represents the '
         'second-largest cluster, reflecting both historical stigma and the presence of remaining endemic foci.'
     )
 
