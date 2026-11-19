@@ -1,0 +1,30 @@
+jurisdiction_id,pathway_id,active_untreated,on_treatment,mdt_completed,cured,residual_sequelae,source_ids,notes
+J-BDI,PW-BDI-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BDI-001,HD not named in located sources
+J-BWA,PW-BWA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BWA-006,HD not named in located sources
+J-COM,PW-COM-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-COM-001,HD not named in located sources
+J-COM,PW-COM-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-COM-002,HD not named in located sources
+J-DJI,PW-DJI-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-DJI-002,HD not named in located sources
+J-ERI,PW-ERI-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ERI-003,HD not named in located sources
+J-ETH,PW-ETH-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ETH-005,HD not named in located sources
+J-KEN,PW-KEN-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-KEN-010,HD not named in located sources
+J-LSO,PW-LSO-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-LSO-001,HD not named in located sources
+J-MDG,PW-MDG-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,,HD not named in located sources
+J-MDG,PW-MDG-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MDG-007,HD not named in located sources
+J-MOZ,PW-MOZ-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MOZ-001;S-MOZ-002,HD not named in located sources
+J-MUS,PW-MUS-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MUS-001;S-MUS-002;S-MUS-003,Requirement to be certified free of leprosy; treatment states and consequence not stated
+J-MUS,PW-MUS-P2,mentioned_conditional,not_addressed,mentioned_conditional,mentioned_conditional,not_addressed,S-MUS-005,EDB Annex 9.1 note 4: applicants who tested positive for leprosy and 'subsequently undergone the appropriate treatment' must undergo new tests in Mauritius; MDT not named; outcome after retest not stated
+J-MWI,PW-MWI-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MWI-007;S-MWI-002,HD not named in located sources
+J-NAM,PW-NAM-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-NAM-006;S-NAM-002,"Form asks 'ever suffered, or is at present suffering from' leprosy (history disclosure covers past/cured disease) but states no consequence by clinical state"
+J-RWA,PW-RWA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-RWA-002,HD not named in located sources
+J-SOM,PW-SOM-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SOM-005,HD not named in located sources
+J-SOM,PW-SOM-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SOM-004,HD not named in located sources
+J-SSD,PW-SSD-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SSD-001,HD not named in located sources
+J-SWZ,PW-SWZ-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SWZ-002,HD not named in located sources
+J-SYC,PW-SYC-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,,HD not named in located sources
+J-SYC,PW-SYC-P3,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SYC-005,HD not named in located sources
+J-TZA,PW-TZA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-TZA-003,HD not named in located sources
+J-UGA,PW-UGA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-UGA-001,HD not named in located sources
+J-ZAF,PW-ZAF-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ZAF-005;S-ZAF-002;S-ZAF-004;S-ZAF-003,HD not named in located sources
+J-ZMB,PW-ZMB-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ZMB-005;S-ZMB-001,HD not named in located sources
+J-ZMB,PW-ZMB-P3,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ZMB-003,HD not named in located sources
+J-ZWE,PW-ZWE-P1,mentioned_conditional,not_addressed,not_addressed,not_addressed,not_addressed,S-ZWE-004;S-ZWE-001;S-ZWE-002,Persons 'infected or afflicted with or suffering from' a prescribed disease (incl. leprosy) are prohibited unless holding a permit with reg. 39 conditions; past/cured states not addressed

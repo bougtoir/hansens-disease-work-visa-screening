@@ -1,0 +1,200 @@
+jurisdiction_id,iso3,name,r1_label_historical,category,hd_final,dss_status,changed
+J-AGO,AGO,Angola,B,U,cannot_determine,unresolved,True
+J-BEN,BEN,Benin,C,U,cannot_determine,unresolved,True
+J-BFA,BFA,Burkina Faso,C,U,cannot_determine,unresolved,True
+J-CAF,CAF,Central African Republic,C,U,cannot_determine,unresolved,True
+J-CIV,CIV,Cote d'Ivoire,C,U,cannot_determine,unresolved,True
+J-CMR,CMR,Cameroon,C,U,cannot_determine,unresolved,True
+J-COD,COD,DR Congo,C,U,cannot_determine,unresolved,True
+J-COG,COG,Congo,C,U,cannot_determine,unresolved,True
+J-CPV,CPV,Cabo Verde,C,U,cannot_determine,unresolved,True
+J-GAB,GAB,Gabon,C,U,cannot_determine,unresolved,True
+J-GHA,GHA,Ghana,B,U,cannot_determine,unresolved,True
+J-GIN,GIN,Guinea,C,U,cannot_determine,unresolved,True
+J-GMB,GMB,Gambia,C,U,cannot_determine,unresolved,True
+J-GNB,GNB,Guinea-Bissau,C,U,cannot_determine,unresolved,True
+J-GNQ,GNQ,Equatorial Guinea,C,U,cannot_determine,unresolved,True
+J-LBR,LBR,Liberia,C,A,confirmed,documented_positive,True
+J-MLI,MLI,Mali,C,U,cannot_determine,unresolved,True
+J-MRT,MRT,Mauritania,C,U,cannot_determine,unresolved,True
+J-NER,NER,Niger,C,U,cannot_determine,unresolved,True
+J-NGA,NGA,Nigeria,B,U,cannot_determine,unresolved,True
+J-SEN,SEN,Senegal,B,U,cannot_determine,unresolved,True
+J-SLE,SLE,Sierra Leone,C,U,cannot_determine,unresolved,True
+J-STP,STP,Sao Tome and Principe,C,U,cannot_determine,unresolved,True
+J-TCD,TCD,Chad,C,U,cannot_determine,unresolved,True
+J-TGO,TGO,Togo,C,U,cannot_determine,unresolved,True
+J-BDI,BDI,Burundi,C,B,cannot_determine,documented_positive,True
+J-BWA,BWA,Botswana,B,U,cannot_determine,unresolved,True
+J-COM,COM,Comoros,C,U,cannot_determine,unresolved,True
+J-DJI,DJI,Djibouti,C,U,cannot_determine,unresolved,True
+J-ERI,ERI,Eritrea,B,U,cannot_determine,unresolved,True
+J-ETH,ETH,Ethiopia,B,B,not_established,documented_positive,False
+J-KEN,KEN,Kenya,B,U,cannot_determine,unresolved,True
+J-LSO,LSO,Lesotho,C,U,cannot_determine,unresolved,True
+J-MDG,MDG,Madagascar,C,U,cannot_determine,unresolved,True
+J-MOZ,MOZ,Mozambique,B,U,cannot_determine,unresolved,True
+J-MUS,MUS,Mauritius,C,A,confirmed,documented_positive,True
+J-MWI,MWI,Malawi,B,B,cannot_determine,documented_positive,False
+J-NAM,NAM,Namibia,A,A,confirmed,documented_positive,False
+J-RWA,RWA,Rwanda,B,U,cannot_determine,unresolved,True
+J-SOM,SOM,Somalia,C,U,cannot_determine,unresolved,True
+J-SSD,SSD,South Sudan,C,B,cannot_determine,documented_positive,True
+J-SWZ,SWZ,Eswatini,C,U,cannot_determine,unresolved,True
+J-SYC,SYC,Seychelles,C,U,cannot_determine,unresolved,True
+J-TZA,TZA,Tanzania,B,B,not_established,documented_positive,False
+J-UGA,UGA,Uganda,B,U,cannot_determine,unresolved,True
+J-ZAF,ZAF,South Africa,A,B,cannot_determine,documented_positive,True
+J-ZMB,ZMB,Zambia,B,U,cannot_determine,unresolved,True
+J-ZWE,ZWE,Zimbabwe,B,A,confirmed,documented_positive,True
+J-ARE,ARE,UAE,A,A,confirmed,documented_positive,False
+J-ARM,ARM,Armenia,C,B,not_established,documented_positive,True
+J-AZE,AZE,Azerbaijan,C,B,not_established,documented_positive,True
+J-BHR,BHR,Bahrain,A,A,confirmed,documented_positive,False
+J-CYP,CYP,Cyprus,D,B,not_established,documented_positive,True
+J-DZA,DZA,Algeria,B,U,cannot_determine,unresolved,True
+J-EGY,EGY,Egypt,B,U,cannot_determine,unresolved,True
+J-GEO,GEO,Georgia,C,U,cannot_determine,unresolved,True
+J-IRQ,IRQ,Iraq,B,B,not_established,documented_positive,False
+J-ISR,ISR,Israel,B,B,not_established,documented_positive,False
+J-JOR,JOR,Jordan,B,B,not_established,documented_positive,False
+J-KWT,KWT,Kuwait,A,A,confirmed,documented_positive,False
+J-LBN,LBN,Lebanon,B,U,cannot_determine,unresolved,True
+J-LBY,LBY,Libya,B,U,cannot_determine,unresolved,True
+J-MAR,MAR,Morocco,B,U,cannot_determine,unresolved,True
+J-OMN,OMN,Oman,A,A,confirmed,documented_positive,False
+J-PSE,PSE,Palestine,C,U,cannot_determine,unresolved,True
+J-QAT,QAT,Qatar,A,A,confirmed,documented_positive,False
+J-SAU,SAU,Saudi Arabia,A,A,confirmed,documented_positive,False
+J-SDN,SDN,Sudan,C,U,cannot_determine,unresolved,True
+J-SYR,SYR,Syria,C,B,not_established,documented_positive,True
+J-TUN,TUN,Tunisia,B,U,cannot_determine,unresolved,True
+J-TUR,TUR,Turkey,C,U,cannot_determine,unresolved,True
+J-YEM,YEM,Yemen,C,U,cannot_determine,unresolved,True
+J-AFG,AFG,Afghanistan,C,U,cannot_determine,unresolved,True
+J-BGD,BGD,Bangladesh,B,U,cannot_determine,unresolved,True
+J-BTN,BTN,Bhutan,C,B,not_established,documented_positive,True
+J-IND,IND,India,A,B,not_established,documented_positive,True
+J-IRN,IRN,Iran,C,U,cannot_determine,unresolved,True
+J-KAZ,KAZ,Kazakhstan,C,A,confirmed,documented_positive,True
+J-KGZ,KGZ,Kyrgyzstan,C,U,cannot_determine,unresolved,True
+J-LKA,LKA,Sri Lanka,B,B,not_established,documented_positive,False
+J-MDV,MDV,Maldives,C,A,confirmed,documented_positive,True
+J-NPL,NPL,Nepal,B,U,cannot_determine,unresolved,True
+J-PAK,PAK,Pakistan,B,U,cannot_determine,unresolved,True
+J-TJK,TJK,Tajikistan,C,B,cannot_determine,documented_positive,True
+J-TKM,TKM,Turkmenistan,C,B,cannot_determine,documented_positive,True
+J-UZB,UZB,Uzbekistan,C,U,cannot_determine,unresolved,True
+J-BRN,BRN,Brunei,B,A,confirmed,documented_positive,True
+J-CHN,CHN,China,A,A,confirmed,documented_positive,False
+J-HKG,HKG,Hong Kong SAR,A,D,not_established,documented_absence,True
+J-IDN,IDN,Indonesia,B,B,not_established,documented_positive,False
+J-JPN,JPN,Japan,B,B,not_established,documented_positive,False
+J-KHM,KHM,Cambodia,B,U,cannot_determine,unresolved,True
+J-KOR,KOR,South Korea,B,B,not_established,documented_positive,False
+J-LAO,LAO,Laos,C,U,cannot_determine,unresolved,True
+J-MAC,MAC,Macao SAR,,U,cannot_determine,unresolved,True
+J-MMR,MMR,Myanmar,B,U,cannot_determine,unresolved,True
+J-MNG,MNG,Mongolia,C,B,not_established,documented_positive,True
+J-MYS,MYS,Malaysia,A,A,confirmed,documented_positive,False
+J-PHL,PHL,Philippines,A,U,cannot_determine,unresolved,True
+J-PRK,PRK,North Korea,C,U,cannot_determine,unresolved,True
+J-SGP,SGP,Singapore,B,A,confirmed,documented_positive,True
+J-THA,THA,Thailand,A,A,confirmed,documented_positive,False
+J-TLS,TLS,Timor-Leste,C,U,cannot_determine,unresolved,True
+J-TWN,TWN,Taiwan,A,A,confirmed,documented_positive,False
+J-VNM,VNM,Vietnam,B,B,not_established,documented_positive,False
+J-AUT,AUT,Austria,D,U,cannot_determine,unresolved,True
+J-BEL,BEL,Belgium,D,B,not_established,documented_positive,True
+J-CHE,CHE,Switzerland,D,U,cannot_determine,unresolved,True
+J-DEU,DEU,Germany,D,U,cannot_determine,unresolved,True
+J-DNK,DNK,Denmark,D,U,cannot_determine,unresolved,True
+J-EST,EST,Estonia,D,U,cannot_determine,unresolved,True
+J-FIN,FIN,Finland,D,U,cannot_determine,unresolved,True
+J-FRA,FRA,France,D,U,cannot_determine,unresolved,True
+J-GBR,GBR,United Kingdom,B,B,not_established,documented_positive,False
+J-IRL,IRL,Ireland,D,B,not_established,documented_positive,True
+J-ISL,ISL,Iceland,D,B,not_established,documented_positive,True
+J-LIE,LIE,Liechtenstein,D,U,cannot_determine,unresolved,True
+J-LTU,LTU,Lithuania,D,U,cannot_determine,unresolved,True
+J-LUX,LUX,Luxembourg,D,B,cannot_determine,documented_positive,True
+J-LVA,LVA,Latvia,D,B,not_established,documented_positive,True
+J-MCO,MCO,Monaco,D,U,cannot_determine,unresolved,True
+J-NLD,NLD,Netherlands,D,B,not_established,documented_positive,True
+J-NOR,NOR,Norway,D,B,not_established,documented_positive,True
+J-SWE,SWE,Sweden,D,U,cannot_determine,unresolved,True
+J-ALB,ALB,Albania,C,U,cannot_determine,unresolved,True
+J-AND,AND,Andorra,C,U,cannot_determine,unresolved,True
+J-BGR,BGR,Bulgaria,D,U,cannot_determine,unresolved,True
+J-BIH,BIH,Bosnia and Herzegovina,C,U,cannot_determine,unresolved,True
+J-BLR,BLR,Belarus,C,U,cannot_determine,unresolved,True
+J-CZE,CZE,Czech Republic,D,U,cannot_determine,unresolved,True
+J-ESP,ESP,Spain,D,D,not_established,documented_absence,False
+J-GRC,GRC,Greece,D,U,cannot_determine,unresolved,True
+J-HRV,HRV,Croatia,D,B,not_established,documented_positive,True
+J-HUN,HUN,Hungary,D,B,not_established,documented_positive,True
+J-ITA,ITA,Italy,D,D,not_established,documented_absence,False
+J-MDA,MDA,Moldova,C,B,cannot_determine,documented_positive,True
+J-MKD,MKD,North Macedonia,C,U,cannot_determine,unresolved,True
+J-MLT,MLT,Malta,A,B,not_established,documented_positive,True
+J-MNE,MNE,Montenegro,C,U,cannot_determine,unresolved,True
+J-POL,POL,Poland,D,U,cannot_determine,unresolved,True
+J-PRT,PRT,Portugal,D,U,cannot_determine,unresolved,True
+J-ROU,ROU,Romania,D,U,cannot_determine,unresolved,True
+J-RUS,RUS,Russia,A,A,confirmed,documented_positive,False
+J-SMR,SMR,San Marino,C,D,not_established,documented_absence,True
+J-SRB,SRB,Serbia,C,D,not_established,documented_absence,True
+J-SVK,SVK,Slovakia,D,U,cannot_determine,unresolved,True
+J-SVN,SVN,Slovenia,D,U,cannot_determine,unresolved,True
+J-UKR,UKR,Ukraine,C,U,cannot_determine,unresolved,True
+J-VAT,VAT,Vatican City,D,U,cannot_determine,unresolved,True
+J-XKX,XKX,Kosovo,C,U,cannot_determine,unresolved,True
+J-ATG,ATG,Antigua and Barbuda,C,B,not_established,documented_positive,True
+J-BHS,BHS,Bahamas,C,B,cannot_determine,documented_positive,True
+J-BLZ,BLZ,Belize,C,B,not_established,documented_positive,True
+J-BRB,BRB,Barbados,A,A,confirmed,documented_positive,False
+J-CRI,CRI,Costa Rica,D,U,cannot_determine,unresolved,True
+J-CUB,CUB,Cuba,D,U,cannot_determine,unresolved,True
+J-DMA,DMA,Dominica,C,B,cannot_determine,documented_positive,True
+J-DOM,DOM,Dominican Republic,D,B,cannot_determine,documented_positive,True
+J-GRD,GRD,Grenada,C,B,not_established,documented_positive,True
+J-GTM,GTM,Guatemala,D,U,cannot_determine,unresolved,True
+J-HND,HND,Honduras,D,B,cannot_determine,documented_positive,True
+J-HTI,HTI,Haiti,D,U,cannot_determine,unresolved,True
+J-JAM,JAM,Jamaica,D,U,cannot_determine,unresolved,True
+J-KNA,KNA,Saint Kitts and Nevis,C,B,cannot_determine,documented_positive,True
+J-LCA,LCA,Saint Lucia,C,U,cannot_determine,unresolved,True
+J-MEX,MEX,Mexico,B,U,not_established,unresolved,True
+J-NIC,NIC,Nicaragua,D,U,cannot_determine,unresolved,True
+J-PAN,PAN,Panama,D,U,cannot_determine,unresolved,True
+J-SLV,SLV,El Salvador,D,U,not_established,unresolved,True
+J-TTO,TTO,Trinidad and Tobago,D,U,cannot_determine,unresolved,True
+J-VCT,VCT,Saint Vincent and the Grenadines,C,U,cannot_determine,unresolved,True
+J-ARG,ARG,Argentina,D,D,not_established,documented_absence,False
+J-AUS,AUS,Australia,B,B,not_established,documented_positive,False
+J-BOL,BOL,Bolivia,D,U,cannot_determine,unresolved,True
+J-BRA,BRA,Brazil,B,U,cannot_determine,unresolved,True
+J-CAN,CAN,Canada,B,A,confirmed,documented_positive,True
+J-CHL,CHL,Chile,D,U,cannot_determine,unresolved,True
+J-COL,COL,Colombia,D,D,not_established,documented_absence,False
+J-ECU,ECU,Ecuador,D,U,cannot_determine,unresolved,True
+J-FJI,FJI,Fiji,D,U,cannot_determine,unresolved,True
+J-FSM,FSM,Micronesia,C,U,cannot_determine,unresolved,True
+J-GUY,GUY,Guyana,C,A,confirmed,documented_positive,True
+J-KIR,KIR,Kiribati,C,U,cannot_determine,unresolved,True
+J-MHL,MHL,Marshall Islands,C,U,cannot_determine,unresolved,True
+J-NRU,NRU,Nauru,C,U,cannot_determine,unresolved,True
+J-NZL,NZL,New Zealand,B,B,not_established,documented_positive,False
+J-PER,PER,Peru,D,D,not_established,documented_absence,False
+J-PLW,PLW,Palau,C,U,cannot_determine,unresolved,True
+J-PNG,PNG,Papua New Guinea,B,U,cannot_determine,unresolved,True
+J-PRY,PRY,Paraguay,D,U,cannot_determine,unresolved,True
+J-SLB,SLB,Solomon Islands,C,U,cannot_determine,unresolved,True
+J-SUR,SUR,Suriname,C,U,cannot_determine,unresolved,True
+J-TON,TON,Tonga,D,U,cannot_determine,unresolved,True
+J-TUV,TUV,Tuvalu,C,U,cannot_determine,unresolved,True
+J-URY,URY,Uruguay,D,U,cannot_determine,unresolved,True
+J-USA,USA,United States,A,A,confirmed,documented_positive,False
+J-VEN,VEN,Venezuela,D,U,cannot_determine,unresolved,True
+J-VUT,VUT,Vanuatu,C,B,not_established,documented_positive,True
+J-WSM,WSM,Samoa,C,A,confirmed,documented_positive,True

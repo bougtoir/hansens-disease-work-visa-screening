@@ -1,0 +1,10 @@
+jurisdiction_id,pathway_id,risk_status,mechanism,source_ids,notes
+J-BRN,PW-BRN-P1,explicit_post_treatment_exclusion,Any past leprosy or history of treatment yields an unfit result in Part II.,S-BRN-003,"This is an express historical-illness rule in the retrieved form, with no case-level evidence and uncertain currency of this exact version."
+J-CHN,PW-CHN-P2,cannot_determine,Form certifies present examination findings; text gives no rule for previously treated HD.,S-CHN-009,
+J-MAC,PW-MAC-P2,cannot_determine,No HD-specific application of the contingent power verified.,S-MAC-003;S-MAC-006,
+J-MYS,PW-MYS-P1,no_treatment_distinction_named_condition,Category 1 specifies workers detected with leprosy as unsuitable; the criterion does not say how previously treated cases are classified.,S-MYS-001,
+J-SGP,PW-SGP-P1,no_treatment_distinction_named_condition,The HD mention is part of a clinical skin assessment; no previously treated HD criterion is stated.,S-SGP-002,
+J-SGP,PW-SGP-P2,no_treatment_distinction_named_condition,The HD mention is part of a clinical skin assessment; no previously treated HD criterion is stated.,S-SGP-004,
+J-THA,PW-THA-P1,cannot_determine,"The appearance prong could extend beyond infectious cases, but application to post-treatment signs or residual disability is not expressly stated.",S-THA-002,
+J-TWN,PW-TWN-P3,treatment_distinction_exempts_or_conditional,Article 10 treats documented completion under the local process as passing. CDC notice exempts compliant workers from permit revocation.,S-TWN-008;S-TWN-009;S-TWN-001,Pre-entry visa issuance and post-entry remediation operate at different stages.
+J-TWN,PW-TWN-P4,treatment_distinction_exempts_or_conditional,Article 10 treats documented completion under the local process as passing. CDC notice exempts compliant workers from permit revocation.,S-TWN-008;S-TWN-009;S-TWN-001,Pre-entry visa issuance and post-entry remediation operate at different stages.

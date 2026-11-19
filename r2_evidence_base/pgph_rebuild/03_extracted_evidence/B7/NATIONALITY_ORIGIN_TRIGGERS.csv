@@ -1,0 +1,8 @@
+jurisdiction_id,pathway_id,trigger_type,trigger_value,source_ids,notes
+J-HRV,B7-HRV-P2,nationality,nationals of visa-regime third countries,B7S-HRV_NN79_2026_Odluka_zakonhr,
+J-HRV,B7-HRV-P2,visa class,extension of temporary residence (work: employer referral),B7S-HRV_NN79_2026_Odluka_zakonhr,
+J-MLT,B7-MLT-P1,residence,born in or >=6 months residence in high/very-high TB-risk country (chest X-ray),B7S-MLT_HPDP_FAQ_firsttime_2026,
+J-MLT,B7-MLT-P1,occupation,certain job categories (hepatitis B screening),B7S-MLT_HPDP_IDCU_firsttime,
+J-CZE,B7-CZE-P2,residence,living in a risk area in country of origin (may be asked),B7S-CZE_IPC_bezinfekcnost,
+J-SRB,B7-SRB-P2,residence,arrival from area affected by epidemic of infectious diseases (entry),B7S-SRB_ZakonStrancima2023_MUP,
+J-RUS,B7-RUS-P1,visa class,foreign nationals applying for patent/work permit/TRP/RP (medical examination),B7S-RUS_MoH1079n_pravo_pdf,

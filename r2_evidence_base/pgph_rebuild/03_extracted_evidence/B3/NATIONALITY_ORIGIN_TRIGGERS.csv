@@ -1,0 +1,18 @@
+jurisdiction_id,pathway_id,trigger_type,trigger_value,source_ids,notes
+J-ARE,PW-ARE-P1,programme_coverage,Source-country/location list in Wafid FAQ,S-SAU-001;S-ARE-003,"The official programme lists countries and booking selects examination country, city and GCC destination. "
+J-ARE,PW-ARE-P2,occupation,Domestic workers,S-ARE-004,Pregnancy examination only. The HD rule is described for new and renewal applicants.
+J-BHR,PW-BHR-P1,programme_coverage,Source-country/location list in Wafid FAQ,S-SAU-001;S-ARE-003,"The official programme lists countries and booking selects examination country, city and GCC destination. Bahrain LMRA has an official alternate non-Wafid form where there is no approved centre."
+J-BHR,PW-BHR-P2,occupation,"Specific jobs, e.g. health care and kindergartens workers (tuberculin skin test).",S-BHR-003,
+J-CYP,PW-CYP-P1,visa_class,Third-country national in general employment single permit (GEN).,S-CYP-002,
+J-CYP,PW-CYP-P2,visa_class,Third-country national in general employment single permit (GEN).,S-CYP-002,
+J-IRQ,PW-IRQ-P2-KRI,origin_country,Country the foreign entrant comes from,S-IRQ-004,The service explicitly says the types of tests vary by country of origin; a complete country-to-test mapping was not included.
+J-ISR,PW-ISR-P1-JPN,nationality,Japanese nationals in specialist occupations for stays of up to 45 days,S-ISR-004,"These workers are exempt from submitting a health certificate, PDF p. 1."
+J-KWT,PW-KWT-P1,programme_coverage,Source-country/location list in Wafid FAQ,S-SAU-001;S-ARE-003,"The official programme lists countries and booking selects examination country, city and GCC destination. "
+J-LBN,PW-LBN-P1,occupation,Foreign domestic service workers,S-LBN-002,
+J-OMN,PW-OMN-P1,programme_coverage,Source-country/location list in Wafid FAQ,S-SAU-001;S-ARE-003,"The official programme lists countries and booking selects examination country, city and GCC destination. "
+J-OMN,PW-OMN-P1,nationality,"India, Pakistan, Philippines, Bangladesh, Indonesia, Sri Lanka, Egypt, Sudan, Ethiopia, Syria and Nepal",S-OMN-003,"Royal Oman Police work-visa certificate requirement, independently of the regional programme's examination location list."
+J-OMN,PW-OMN-P2,occupation,Private driver,S-OMN-001,"Conditional hepatitis B/C fitness after sponsor commitment, PDF pp. 7–8."
+J-QAT,PW-QAT-P1,programme_coverage,Source-country/location list in Wafid FAQ,S-SAU-001;S-ARE-003,"The official programme lists countries and booking selects examination country, city and GCC destination. "
+J-QAT,PW-QAT-P2,occupation,"Newly arriving domestic workers, such as housekeepers and family drivers",S-QAT-003,PHCC designates certain health centres where the required residence tests can be completed; this is a service-location difference.
+J-SAU,PW-SAU-P1,programme_coverage,Source-country/location list in Wafid FAQ,S-SAU-001;S-ARE-003,"The official programme lists countries and booking selects examination country, city and GCC destination. "
+J-SYR,PW-SYR-P2,visa_class,One-year residence,S-SYR-001,The same source has a distinct one-to-three-month checklist without this item.

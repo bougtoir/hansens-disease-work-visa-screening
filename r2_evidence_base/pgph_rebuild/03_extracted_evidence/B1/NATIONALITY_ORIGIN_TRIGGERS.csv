@@ -1,0 +1,2 @@
+jurisdiction_id,pathway_id,trigger_type,trigger_value,source_ids,notes
+J-LBR,PW-LBR-P1,visa_class,all visa applicants / aliens seeking admission,S-LBR-006;S-LBR-001;S-LBR-002;S-LBR-004,§5.1 applies to all classes of aliens

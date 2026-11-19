@@ -1,0 +1,22 @@
+jurisdiction_id,batch,english_pass_done,local_pass_done,local_languages_used,n_queries,n_sources_opened,best_source_tier,dss_status,hd_named_status,unresolved_reason,hours_spent,notes
+J-ATG,B8,yes,n/a_official_language_english,en,5,4,S1,documented_positive,not_established,,0.4,Extension: Act + scanned Cap.208 regs (repealed parent; OCR). DSS positive via SUBST_DEP (Sched 5) for P1; CBI certificate names TB/HIV/hepatitis (P3 only).
+J-BHS,B8,yes,n/a_official_language_english,en,2,4,S1,documented_positive,cannot_determine,Medical certificate content (required for WP) not located,0.3,"DSS positive rests on MENTAL named in Immigration Act s.22(1)(d); infectious-disease criterion generic. Medical certificate form content not located (HD not_established, not absence)."
+J-BLZ,B8,yes,n/a_official_language_english,en,2,4,S1,documented_positive,not_established,,0.3,DSS positive on MENTAL (statute). TEP medical requirements not stated on official pages;
+J-BRB,B8,yes,n/a_official_language_english,en,3,6,S1,documented_positive,confirmed,,0.5,Extension (beyond initial budget) reason: plausible HD-specific evidence via statutory cross-reference; Cap.44 regs retrieved. Pre-rebuild R2 marked 'Not established' because Cap.44 regs were not retrieved; material change -> independent verification required.
+J-CRI,B8,yes,yes,en;es,3,1,S1,unresolved,cannot_determine,Ley 8764 PDF timed out; no named condition located in Reglamento de Extranjería,0.3,
+J-CUB,B8,yes,yes,en;es,3,1,S1,unresolved,cannot_determine,Implementing regulations of Ley 173 not retrieved,0.3,
+J-DMA,B8,yes,n/a_official_language_english,en,2,3,S1,documented_positive,cannot_determine,Medical certificate content not located,0.3,
+J-DOM,B8,yes,yes,en;es,3,3,S1,documented_positive,cannot_determine,DGM medical exam content not located,0.3,
+J-GRD,B8,yes,n/a_official_language_english,en,2,3,S1,documented_positive,not_established,,0.3,
+J-GTM,B8,yes,yes,en;es,5,6,S1,unresolved,cannot_determine,Reglamento del Código de Migración not retrieved (DCA download empty),0.3,legal.dca.gob.gt PDF download
+J-HND,B8,yes,yes,en;es,4,5,S1,documented_positive,cannot_determine,Health Ministry list of prohibited diseases (Art.81(2)) and Reglamento not retrieved,0.4,
+J-HTI,B8,yes,yes,en;fr,5,3,S3,unresolved,cannot_determine,Loi 1959 scanned (OCR incomplete); medical certificate content not located,0.3,
+J-JAM,B8,yes,n/a_official_language_english,en,3,2,S3,unresolved,cannot_determine,Aliens Act and Immigration Restriction (Commonwealth Citizens) Act not retrieved,0.3,
+J-KNA,B8,yes,n/a_official_language_english,en,4,3,S1,documented_positive,cannot_determine,Communicable-disease regulations referenced by First Schedule para 2 not retrieved,0.3,
+J-LCA,B8,yes,n/a_official_language_english,en,3,1,S1,unresolved,cannot_determine,Immigration Act Cap.76 and work-permit requirements not retrieved,0.3,
+J-MEX,B8,yes,yes,en;es,4,2,S1,unresolved,not_established,INM Lineamientos para trámites migratorios not retrieved; no medical requirement located,0.3,
+J-NIC,B8,yes,yes,en;es,4,3,S7,unresolved,cannot_determine,Ley 761 and Reglamento inaccessible (Digesto returned empty pages),0.3,digesto.asamblea.gob.ni Ley 761 PDF
+J-PAN,B8,yes,yes,en;es,3,2,S1,unresolved,cannot_determine,Generic health certificate only; content not located,0.3,
+J-SLV,B8,yes,yes,en;es,3,3,S1,unresolved,not_established,DGME requirement checklists not retrieved; no medical requirement located,0.3,
+J-TTO,B8,yes,n/a_official_language_english,en,3,4,S1,unresolved,cannot_determine,Immigration Act Chap.18:01 s.8 prohibited classes not retrieved (OAS copy 503),0.3,Immigration Act Chap.18:01 full text
+J-VCT,B8,yes,n/a_official_language_english,en,3,4,S3,unresolved,cannot_determine,Immigration (Restriction) Act and medical form content not retrieved,0.3,

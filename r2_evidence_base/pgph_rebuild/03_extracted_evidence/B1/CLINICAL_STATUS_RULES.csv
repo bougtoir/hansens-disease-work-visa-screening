@@ -1,0 +1,28 @@
+jurisdiction_id,pathway_id,active_untreated,on_treatment,mdt_completed,cured,residual_sequelae,source_ids,notes
+J-AGO,PW-AGO-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-AGO-001;S-AGO-002;S-AGO-005;S-AGO-003;S-AGO-009;S-AGO-008,No clinical-state distinction located in opened sources.
+J-BEN,PW-BEN-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BEN-001;S-BEN-002;S-BEN-003,No clinical-state distinction located in opened sources.
+J-BEN,PW-BEN-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BEN-004,No clinical-state distinction located in opened sources.
+J-BFA,PW-BFA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BFA-001;S-BFA-005;S-BFA-004;S-BFA-003,No clinical-state distinction located in opened sources.
+J-CAF,PW-CAF-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-CAF-002;S-CAF-001,No clinical-state distinction located in opened sources.
+J-CIV,PW-CIV-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-CIV-002;S-CIV-003;S-CIV-001,No clinical-state distinction located in opened sources.
+J-CMR,PW-CMR-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-CMR-001;S-CMR-002,No clinical-state distinction located in opened sources.
+J-COD,PW-COD-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-COD-001;S-COD-003;S-COD-004;S-COD-002,No clinical-state distinction located in opened sources.
+J-COG,PW-COG-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-COG-001;S-COG-002;S-COG-003,No clinical-state distinction located in opened sources.
+J-CPV,PW-CPV-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-CPV-003;S-CPV-001,No clinical-state distinction located in opened sources.
+J-CPV,PW-CPV-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-CPV-002,No clinical-state distinction located in opened sources.
+J-GAB,PW-GAB-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GAB-001;S-GAB-002;S-GAB-003,No clinical-state distinction located in opened sources.
+J-GHA,PW-GHA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GHA-001;S-GHA-002;S-GHA-004,No clinical-state distinction located in opened sources.
+J-GIN,PW-GIN-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GIN-001;S-GIN-003;S-GIN-002,No clinical-state distinction located in opened sources.
+J-GMB,PW-GMB-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GMB-003;S-GMB-002;S-GMB-001;S-GMB-004,No clinical-state distinction located in opened sources.
+J-GNB,PW-GNB-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GNB-001;S-GNB-002,No clinical-state distinction located in opened sources.
+J-GNQ,PW-GNQ-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GNQ-001,No clinical-state distinction located in opened sources.
+J-LBR,PW-LBR-P1,mentioned_excluded,not_addressed,not_addressed,not_addressed,not_addressed,S-LBR-006;S-LBR-001;S-LBR-002;S-LBR-004,"'afflicted with ... leprosy' excludes current disease; on-treatment, MDT-completed, cured and sequelae states not addressed."
+J-MLI,PW-MLI-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MLI-001;S-MLI-002;S-MLI-003,No clinical-state distinction located in opened sources.
+J-MRT,PW-MRT-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MRT-001;S-MRT-002,No clinical-state distinction located in opened sources.
+J-NER,PW-NER-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-NER-002;S-NER-001;S-NER-003;S-NER-004,No clinical-state distinction located in opened sources.
+J-NGA,PW-NGA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-NGA-002;S-NGA-001;S-NGA-005;S-NGA-003;S-NGA-007;S-NGA-006,No clinical-state distinction located in opened sources.
+J-SEN,PW-SEN-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SEN-001;S-SEN-002;S-SEN-004;S-SEN-006;S-SEN-005,No clinical-state distinction located in opened sources.
+J-SLE,PW-SLE-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SLE-002;S-SLE-001,No clinical-state distinction located in opened sources.
+J-STP,PW-STP-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-STP-002;S-STP-001,No clinical-state distinction located in opened sources.
+J-TCD,PW-TCD-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-TCD-001;S-TCD-002;S-TCD-004;S-TCD-003,No clinical-state distinction located in opened sources.
+J-TGO,PW-TGO-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-TGO-003;S-TGO-001;S-TGO-004;S-TGO-002,No clinical-state distinction located in opened sources.

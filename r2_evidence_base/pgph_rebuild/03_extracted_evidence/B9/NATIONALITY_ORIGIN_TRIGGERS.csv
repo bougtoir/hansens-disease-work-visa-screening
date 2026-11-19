@@ -1,0 +1,4 @@
+jurisdiction_id,pathway_id,trigger_type,trigger_value,source_ids,notes
+J-CAN,PW-B9-CAN-P1,prior_residence,residence >=6 months in designated country/territory (higher communicable disease incidence),SRC-B9-CAN-007,triggers IME for work permits >6 months / agricultural work
+J-PNG,PW-B9-PNG-P1,nationality,"Philippines: medical, radiology and NBI reports validated by PNG Embassy Manila",SRC-B9-PNG-039,"document-validation trigger, not a disease test"
+J-PLW,PW-B9-PLW-P1,country_of_origin,certificate issued by physician licensed in worker's country of origin,SRC-B9-PLW-068,exam location rule

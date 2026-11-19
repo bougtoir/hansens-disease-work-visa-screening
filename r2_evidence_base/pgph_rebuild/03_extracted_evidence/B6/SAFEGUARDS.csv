@@ -1,0 +1,20 @@
+jurisdiction_id,pathway_id,discretion,individual_assessment,retest,waiver,appeal_review,source_ids,notes
+J-BEL,PW-BEL-P1,no_statement_located,no_statement_located,no_statement_located,explicit_available,no_statement_located,S-BEL-007,Art. 61/25-2: minister may authorise stay where producing documents (incl. medical certificate) is duly justified impossible
+J-AUT,PW-AUT-P2,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-AUT-009;S-AUT-006;S-AUT-003,No safeguard statement located in sources read
+J-FRA,PW-FRA-P2,no_statement_located,no_statement_located,unknown,no_statement_located,no_statement_located,S-FRA-001,S5 reproduction: TB file suspended until certificate of cure (not counted as explicit; S5)
+J-GBR,PW-GBR-P1,explicit_available,no_statement_located,no_statement_located,explicit_available,no_statement_located,S-GBR-001;S-GBR-002,TB5 waiver; strong compassionate reasons (SUI3 guidance)
+J-IRL,PW-IRL-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-IRL-001,No safeguard statement located in sources read
+J-ISL,PW-ISL-P2,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-ISL-001;S-ISL-002,No safeguard statement located in sources read
+J-LUX,PW-LUX-P2,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-LUX-001;S-LUX-002,No safeguard statement located in sources read
+J-LVA,PW-LVA-P2,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-LVA-001,No safeguard statement located in sources read
+J-NLD,PW-NLD-P2,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-NLD-001;S-NLD-002,No safeguard statement located in sources read
+J-NOR,PW-NOR-P2,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-NOR-001,No safeguard statement located in sources read
+J-EST,PW-EST-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-EST-003;S-EST-001;S-EST-004,No safeguard statement located in sources read
+J-CHE,PW-CHE-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-CHE-002;S-CHE-003,No safeguard statement located in sources read
+J-DEU,PW-DEU-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-DEU-001;S-DEU-002;S-DEU-003,No safeguard statement located in sources read
+J-DNK,PW-DNK-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,,No safeguard statement located in sources read
+J-FIN,PW-FIN-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-FIN-005,No safeguard statement located in sources read
+J-LIE,PW-LIE-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-LIE-005,No safeguard statement located in sources read
+J-LTU,PW-LTU-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-LTU-002;S-LTU-001,No safeguard statement located in sources read
+J-MCO,PW-MCO-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-MCO-003;S-MCO-004,No safeguard statement located in sources read
+J-SWE,PW-SWE-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-SWE-001;S-SWE-003,No safeguard statement located in sources read

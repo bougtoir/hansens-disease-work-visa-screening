@@ -1,0 +1,22 @@
+jurisdiction_id,pathway_id,risk_status,mechanism,source_ids,notes
+J-ATG,PW-ATG-P1,not_applicable_hd_not_named,HD not named,S-ATG-001,
+J-BHS,PW-BHS-P1,cannot_determine,medical certificate content unknown,S-BHS-001,
+J-BLZ,PW-BLZ-P1,not_applicable_hd_not_named,HD not named as admission criterion,S-BLZ-001,leprosy asylum detention excluded from domicile computation (s.2(2)(a)(iii))
+J-BRB,PW-BRB-P1,no_treatment_distinction_named_condition,Leprosy (via Cap.44 First Schedule) as communicable disease under prohibited-person class 2; 'suffering from' wording; no treatment/cure distinction,S-BRB-001;S-BRB-004,Whether 'suffering from' covers MDT-completed persons is not stated; narrow ministerial exemption only for entry to seek treatment.
+J-CRI,PW-CRI-P1,cannot_determine,governing law not retrieved,S-CRI-001,
+J-CUB,PW-CUB-P1,cannot_determine,implementing regulations not retrieved,S-CUB-001,
+J-DMA,PW-DMA-P1,cannot_determine,certificate content unknown,S-DMA-001;S-DMA-002,
+J-DOM,PW-DOM-P1,cannot_determine,Medical exam content unknown; HD not named in statute,S-DOM-001;S-DOM-002,
+J-GRD,PW-GRD-P1,not_applicable_hd_not_named,HD not named,S-GRD-001,
+J-GTM,PW-GTM-P1,cannot_determine,regulation not retrieved,S-GTM-001,
+J-HND,PW-HND-P1,cannot_determine,Health Ministry list not retrieved,S-HND-001,
+J-HTI,PW-HTI-P2,cannot_determine,content unknown,S-HTI-001,
+J-JAM,PW-JAM-P1,cannot_determine,statutes not retrieved,S-JAM-001,
+J-KNA,PW-KNA-P1,cannot_determine,referenced disease list not retrieved,S-KNA-001,
+J-LCA,PW-LCA-P1,cannot_determine,statute not retrieved,S-LCA-001,
+J-MEX,PW-MEX-P1,not_applicable_hd_not_named,HD not named,S-MEX-001;S-MEX-002,
+J-NIC,PW-NIC-P1,cannot_determine,sources inaccessible,S-NIC-001,
+J-PAN,PW-PAN-P1,cannot_determine,certificate content unknown,S-PAN-002,
+J-SLV,PW-SLV-P1,not_applicable_hd_not_named,HD not named,S-SLV-001;S-SLV-002,
+J-TTO,PW-TTO-P1,cannot_determine,statute not retrieved,S-TTO-001,
+J-VCT,PW-VCT-P1,cannot_determine,content unknown,S-VCT-001,

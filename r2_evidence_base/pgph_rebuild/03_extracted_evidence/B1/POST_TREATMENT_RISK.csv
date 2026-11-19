@@ -1,0 +1,28 @@
+jurisdiction_id,pathway_id,risk_status,mechanism,source_ids,notes
+J-AGO,PW-AGO-P1,cannot_determine,,S-AGO-001;S-AGO-002;S-AGO-005;S-AGO-003;S-AGO-009;S-AGO-008,HD naming not established; post-treatment risk cannot be determined.
+J-BEN,PW-BEN-P1,cannot_determine,,S-BEN-001;S-BEN-002;S-BEN-003,HD naming not established; post-treatment risk cannot be determined.
+J-BEN,PW-BEN-P2,cannot_determine,,S-BEN-004,HD naming not established; post-treatment risk cannot be determined.
+J-BFA,PW-BFA-P1,cannot_determine,,S-BFA-001;S-BFA-005;S-BFA-004;S-BFA-003,HD naming not established; post-treatment risk cannot be determined.
+J-CAF,PW-CAF-P1,cannot_determine,,S-CAF-002;S-CAF-001,HD naming not established; post-treatment risk cannot be determined.
+J-CIV,PW-CIV-P2,cannot_determine,,S-CIV-002;S-CIV-003;S-CIV-001,HD naming not established; post-treatment risk cannot be determined.
+J-CMR,PW-CMR-P1,cannot_determine,,S-CMR-001;S-CMR-002,HD naming not established; post-treatment risk cannot be determined.
+J-COD,PW-COD-P1,cannot_determine,,S-COD-001;S-COD-003;S-COD-004;S-COD-002,HD naming not established; post-treatment risk cannot be determined.
+J-COG,PW-COG-P1,cannot_determine,,S-COG-001;S-COG-002;S-COG-003,HD naming not established; post-treatment risk cannot be determined.
+J-CPV,PW-CPV-P1,cannot_determine,,S-CPV-003;S-CPV-001,HD naming not established; post-treatment risk cannot be determined.
+J-CPV,PW-CPV-P2,cannot_determine,,S-CPV-002,HD naming not established; post-treatment risk cannot be determined.
+J-GAB,PW-GAB-P1,cannot_determine,,S-GAB-001;S-GAB-002;S-GAB-003,HD naming not established; post-treatment risk cannot be determined.
+J-GHA,PW-GHA-P1,cannot_determine,,S-GHA-001;S-GHA-002;S-GHA-004,HD naming not established; post-treatment risk cannot be determined.
+J-GIN,PW-GIN-P1,cannot_determine,,S-GIN-001;S-GIN-003;S-GIN-002,HD naming not established; post-treatment risk cannot be determined.
+J-GMB,PW-GMB-P1,cannot_determine,,S-GMB-003;S-GMB-002;S-GMB-001;S-GMB-004,HD naming not established; post-treatment risk cannot be determined.
+J-GNB,PW-GNB-P1,cannot_determine,,S-GNB-001;S-GNB-002,HD naming not established; post-treatment risk cannot be determined.
+J-GNQ,PW-GNQ-P1,cannot_determine,,S-GNQ-001,HD naming not established; post-treatment risk cannot be determined.
+J-LBR,PW-LBR-P1,no_treatment_distinction_named_condition,Leprosy named as exclusion ground with no treatment/cure distinction; discretionary bond admission unavailable for leprosy.,S-LBR-006;S-LBR-001;S-LBR-002;S-LBR-004,No explicit exclusion of treated/cured persons located.
+J-MLI,PW-MLI-P1,cannot_determine,,S-MLI-001;S-MLI-002;S-MLI-003,HD naming not established; post-treatment risk cannot be determined.
+J-MRT,PW-MRT-P1,cannot_determine,,S-MRT-001;S-MRT-002,HD naming not established; post-treatment risk cannot be determined.
+J-NER,PW-NER-P1,cannot_determine,,S-NER-002;S-NER-001;S-NER-003;S-NER-004,HD naming not established; post-treatment risk cannot be determined.
+J-NGA,PW-NGA-P1,cannot_determine,,S-NGA-002;S-NGA-001;S-NGA-005;S-NGA-003;S-NGA-007;S-NGA-006,HD naming not established; post-treatment risk cannot be determined.
+J-SEN,PW-SEN-P2,cannot_determine,,S-SEN-001;S-SEN-002;S-SEN-004;S-SEN-006;S-SEN-005,HD naming not established; post-treatment risk cannot be determined.
+J-SLE,PW-SLE-P1,cannot_determine,,S-SLE-002;S-SLE-001,HD naming not established; post-treatment risk cannot be determined.
+J-STP,PW-STP-P2,cannot_determine,,S-STP-002;S-STP-001,HD naming not established; post-treatment risk cannot be determined.
+J-TCD,PW-TCD-P1,cannot_determine,,S-TCD-001;S-TCD-002;S-TCD-004;S-TCD-003,HD naming not established; post-treatment risk cannot be determined.
+J-TGO,PW-TGO-P2,cannot_determine,,S-TGO-003;S-TGO-001;S-TGO-004;S-TGO-002,HD naming not established; post-treatment risk cannot be determined.

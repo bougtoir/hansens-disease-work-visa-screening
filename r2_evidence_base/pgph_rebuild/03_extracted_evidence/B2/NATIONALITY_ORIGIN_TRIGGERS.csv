@@ -1,0 +1,8 @@
+jurisdiction_id,pathway_id,trigger_type,trigger_value,source_ids,notes
+J-MUS,PW-MUS-P1,nationality,Brazil;India;Indonesia;Bangladesh;Democratic Republic of the Congo;Ethiopia;Madagascar;Mozambique;Myanmar;Nepal;Nigeria;Philippines;Somalia;Sri Lanka;Tanzania,S-MUS-001,HD (leprosy-free certificate) pre-arrival and on arrival
+J-MUS,PW-MUS-P1,nationality,American Samoa;Angola;Benin;Brunei Darussalam;Burkina Faso;Cameroon;Central African Republic;Chad;Comoros;Congo;Côte d’Ivoire;Democratic Republic of the Congo;Dominican Republic;Equatorial Guinea;Eritrea;Ethiopia;Fiji;French Polynesia;Ghana;Guinea;Guinea-Bissau;Haiti;India;Indonesia;Liberia;Madagascar;Malaysia;Mali;Mozambique;Myanmar;Nepal;New Caledonia;Niger;Nigeria;Papua New Guinea;Philippines;Samoa;Senegal;Sierra Leone;Sudan;Tanzania;Zimbabwe,S-MUS-001,FILARIASIS test
+J-MUS,PW-MUS-P1,nationality,India,S-MUS-003,Historical 2016 version: HD certificate for expatriates from India only
+J-MUS,PW-MUS-P2,nationality,India,S-MUS-005,HD test restricted to Indian nationals
+J-MUS,PW-MUS-P2,residence_or_origin,India;Bangladesh;Madagascar;Brazil;Comoros;Ivory Coast;Ghana;Indonesia;Kenya;Mozambique;Nepal;Nigeria;Philippines;Tanzania;Uganda;Vietnam,S-MUS-005,FILARIASIS test for non-citizens 'coming from' listed countries
+J-ZAF,PW-ZAF-P1,visa_class,radiological report for temporary visa applicants excluding s.11(1)(a) visitor visas; not required for children <12 or pregnant women,S-ZAF-002,TB
+J-ZWE,PW-ZWE-P1,visa_class,"radiologist certificate for entrants other than citizens, returning residents, s.15(1)(e) persons, bona fide visitors, children <3, TB-permit holders, exempted classes",S-ZWE-004,TB (reg. 7)

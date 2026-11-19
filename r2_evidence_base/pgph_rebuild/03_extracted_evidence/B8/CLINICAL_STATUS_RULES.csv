@@ -1,0 +1,7 @@
+jurisdiction_id,pathway_id,active_untreated,on_treatment,mdt_completed,cured,residual_sequelae,source_ids,notes
+J-ATG,PW-ATG-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ATG-001,No clinical-state distinctions; s.49 treatment permit
+J-BHS,PW-BHS-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BHS-001,Generic contagious/infectious disease; 'dangerous to the community' qualifier assessed by appointed practitioner; HD not named
+J-BLZ,PW-BLZ-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BLZ-001,Generic communicable disease; dangerousness qualifier certified by medical practitioner
+J-BRB,PW-BRB-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BRB-001;S-BRB-004,Act para 2: 'Persons suffering from communicable diseases'; no treatment/cure/MDT wording. 'Suffering from' wording is ambiguous for cured persons.
+J-BRB,PW-BRB-P2,not_addressed,mentioned_conditional,not_addressed,not_addressed,not_addressed,S-BRB-001,s.5(3)(a): period as inmate of a hospital for treatment of leprosy not counted toward PR residence
+J-DOM,PW-DOM-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-DOM-001,Severity/'risk to public health' qualifiers

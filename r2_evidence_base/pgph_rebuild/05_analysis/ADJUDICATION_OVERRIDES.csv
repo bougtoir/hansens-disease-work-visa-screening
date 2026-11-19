@@ -1,0 +1,9 @@
+evidence_id,field,value,reason,adjudicator,date_utc
+E-BLZ-004,applicable_to_pathway,no,"Leprosy named only in Cap.156 s.2(2)(a)(iii) domicile computation; not a medical admission criterion (row's own operative_effect/classification_note; POLICY_PATHWAYS hd_named_status=not_established)",lead,2026-11-19
+E-BRB-012,applicable_to_pathway,no,"Residence-period computation clause (row's own note: not a screening criterion); retained for clinical-state analysis only",lead,2026-11-19
+E-MUS-013,applicable_to_pathway,no,"Historical 2016 version superseded by MoHW 2026 list (row note)",lead,2026-11-19
+B7-E018,applicable_to_pathway,no,"Repealed 18.12.2015 (row note)",lead,2026-11-19
+B7-E019,applicable_to_pathway,no,"Repealed 18.12.2015 (row note)",lead,2026-11-19
+B7-E058,applicable_to_pathway,no,"Historical predecessor list, repealed (row note)",lead,2026-11-19
+E-NAM-001,criterion_type,administrative-test,"Final legal audit: Annexure M (Application for an Employment Permit) Q28(c) is an applicant self-declaration ('Has the applicant ... ever suffered ...'), not a fitness criterion; same treatment as WSM MPMC100 Q16",lead-AI (human signoff pending),2026-11-19
+E-NAM-007,applicable_to_pathway,no,"Final legal audit: reg.13 original wording substituted by GN 133/2010 (row's own note 'Historical only'); historical rows are not applicable requirements",lead-AI (human signoff pending),2026-11-19

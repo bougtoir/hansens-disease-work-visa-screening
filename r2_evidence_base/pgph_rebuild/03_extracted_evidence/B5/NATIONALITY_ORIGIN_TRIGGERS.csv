@@ -1,0 +1,15 @@
+jurisdiction_id,pathway_id,trigger_type,trigger_value,source_ids,notes
+J-BRN,PW-BRN-P1,exam_country,Home country or country of permanent residence,S-BRN-001,
+J-CHN,PW-CHN-P2,visa_class,Residence for employment of one year or longer in Beijing Customs instructions,S-CHN-005,
+J-JPN,PW-JPN-P1,nationality/residence,Philippines and Nepal (2025-06-23); Viet Nam (2025-09-01). Indonesian certificate requirement scheduled for 2027-01-04. Myanmar and China implementation dates unset. Residence outside a designated country can remove applicability.,S-JPN-004,Specified Skilled Worker and other separately screened routes excluded from JPETS at time of review.
+J-KOR,PW-KOR-P1,visa_class,E-2 foreign language instruction,S-KOR-001,
+J-MNG,PW-MNG-P1,visa_class,Foreign worker employment permit sought for more than 30 days,S-MNG-002,Threshold in §2.6. Repeat testing upon extension under §2.10.
+J-MYS,PW-MYS-P1,visa_class,Visit Pass (Temporary Employment),S-MYS-004,
+J-PRK,PW-PRK-P1,origin,Areas where infectious diseases have occurred,S-PRK-001,Art. 24(4) in dated secondary translation. Generic and current application unverified.
+J-SGP,PW-SGP-P1,visa_class,Migrant Worker Work Permit,S-SGP-001,
+J-SGP,PW-SGP-P2,visa_class,Migrant Domestic Worker Work Permit,S-SGP-003,
+J-TLS,PW-TLS-P1,visa_class,"Work visa; Article 43(m) also lists specified temporary stay, Class II business and residence",S-TLS-007,
+J-TWN,PW-TWN-P3,nationality,Indonesian Type B and Foreign Skilled Workers,S-TWN-001,"Official notice effective 2026-01-01: pre-entry symptom questionnaire and post-entry stool exam for typhoid, paratyphoid and bacillary dysentery. Symptoms may trigger pre-entry visa non-issuance; post-entry test results do not determine examination pass/fail."
+J-TWN,PW-TWN-P4,nationality,Indonesian Type B and Foreign Skilled Workers,S-TWN-001,"Official notice effective 2026-01-01: pre-entry symptom questionnaire and post-entry stool exam for typhoid, paratyphoid and bacillary dysentery. Symptoms may trigger pre-entry visa non-issuance; post-entry test results do not determine examination pass/fail."
+J-TWN,PW-TWN-P4,origin,Foreign Skilled Workers from designated countries/areas in HD exemption list,S-TWN-004;S-TWN-008,"Full bilingual enumeration in Attachment, page 1. Applies to skilled workers, not a blanket exemption for Type B."
+J-VNM,PW-VNM-P1,exam_country,Country/territory covered by a mutual recognition treaty or agreement with Vietnam,S-VNM-001,Agreement is required for overseas-issued certificate; generally no more than 12 months old under this decree.

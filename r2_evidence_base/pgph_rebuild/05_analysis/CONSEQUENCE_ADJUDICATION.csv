@@ -1,0 +1,10 @@
+jurisdiction_id,field,value,reason
+J-CAN,visa_refusal_inadmissibility,False,"IRPA s38 health inadmissibility is generic (danger/excessive demand); no HD-specific refusal ground in located source; HD appears only in exam instruction"
+J-ZWE,visa_refusal_inadmissibility,True,"'prohibited_person_unless_permit' = prohibited-immigrant status (inadmissibility) for the named condition"
+J-ZWE,entry_denial,True,"prohibited person may be refused entry unless permit"
+J-KAZ,visa_refusal_inadmissibility,True,"list of diseases whose presence prohibits entry of foreigners"
+J-MDV,work_authorisation_denial_or_revocation,True,"Grade B result: applicant not eligible for employment"
+J-MYS,work_authorisation_denial_or_revocation,True,"work_permit_denial token in POLICY_PATHWAYS.consequence_values"
+J-SGP,work_authorisation_denial_or_revocation,True,"work_permit_denial token"
+J-THA,work_authorisation_denial_or_revocation,True,"work_permit_denial token"
+J-TWN,work_authorisation_denial_or_revocation,True,"work_permit_denial / work_permit_revocation tokens"

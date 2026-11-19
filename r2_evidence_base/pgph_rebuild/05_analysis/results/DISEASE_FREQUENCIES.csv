@@ -1,0 +1,16 @@
+condition_code,n_jurisdictions_named,n_named_as_diagnostic_criterion,denominator_documented_positive,denominator_frame,unresolved_jurisdictions
+HD,24,21,70,199,121
+TB,47,30,70,199,121
+HIV,34,17,70,199,121
+SYPH,22,8,70,199,121
+STI_OTHER,5,5,70,199,121
+HBV,23,12,70,199,121
+HCV,17,8,70,199,121
+MENTAL,36,36,70,199,121
+SUBST_DEP,14,7,70,199,121
+DRUG_TEST,2,0,70,199,121
+ALCOHOL,5,4,70,199,121
+MALARIA,14,9,70,199,121
+FILARIASIS,10,8,70,199,121
+OTHER_NAMED,25,21,70,199,121
+GENERIC_FITNESS,0,0,70,199,121

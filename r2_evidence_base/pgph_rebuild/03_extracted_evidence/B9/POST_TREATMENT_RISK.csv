@@ -1,0 +1,32 @@
+jurisdiction_id,pathway_id,risk_status,mechanism,source_ids,notes
+J-USA,PW-B9-USA-P2,treatment_distinction_exempts_or_conditional,treated/partially treated HD = Class B; >=7 days therapy reclassifies from Class A,SRC-B9-USA-022;SRC-B9-USA-023,
+J-USA,PW-B9-USA-P1,treatment_distinction_exempts_or_conditional,same CDC TI when exam performed,SRC-B9-USA-023,
+J-CAN,PW-B9-CAN-P1,cannot_determine,leprosy named as screening item; no consequence or treatment rule located,SRC-B9-CAN-035,
+J-WSM,PW-B9-WSM-P1,cannot_determine,leprosy named in declaration question; no consequence stated,SRC-B9-WSM-062,
+J-GUY,PW-B9-GUY-P1,no_treatment_distinction_named_condition,'suffering from any variety of leprosy' prohibited immigrant; no treatment-state wording,SRC-B9-GUY-079,not an explicit post-treatment exclusion
+J-AUS,PW-B9-AUS-P1,not_applicable_hd_not_named,,SRC-B9-AUS-010,
+J-NZL,PW-B9-NZL-P1,not_applicable_hd_not_named,,SRC-B9-NZL-015,
+J-NZL,PW-B9-NZL-P2,not_applicable_hd_not_named,,SRC-B9-NZL-012,
+J-VUT,PW-B9-VUT-P1,not_applicable_hd_not_named,,SRC-B9-VUT-058,
+J-ARG,PW-B9-ARG-P1,not_applicable_hd_not_named,,SRC-B9-ARG-069,
+J-COL,PW-B9-COL-P1,not_applicable_hd_not_named,,SRC-B9-COL-074,
+J-PER,PW-B9-PER-P1,not_applicable_hd_not_named,,SRC-B9-PER-083,
+J-PNG,PW-B9-PNG-P1,cannot_determine,,SRC-B9-PNG-042,HD status cannot be determined
+J-FJI,PW-B9-FJI-P1,cannot_determine,,SRC-B9-FJI-019;SRC-B9-FJI-020,HD status cannot be determined
+J-FSM,PW-B9-FSM-P1,cannot_determine,,SRC-B9-FSM-046,HD status cannot be determined
+J-KIR,PW-B9-KIR-P1,cannot_determine,,SRC-B9-KIR-047;SRC-B9-KIR-049,HD status cannot be determined
+J-KIR,PW-B9-KIR-P3,cannot_determine,,SRC-B9-KIR-045,HD status cannot be determined
+J-MHL,PW-B9-MHL-P1,cannot_determine,,SRC-B9-MHL-063,HD status cannot be determined
+J-NRU,PW-B9-NRU-P1,cannot_determine,,SRC-B9-NRU-061;SRC-B9-NRU-055,HD status cannot be determined
+J-PLW,PW-B9-PLW-P1,cannot_determine,,SRC-B9-PLW-068,HD status cannot be determined
+J-SLB,PW-B9-SLB-P1,cannot_determine,,SRC-B9-SLB-065,HD status cannot be determined
+J-TON,PW-B9-TON-P1,cannot_determine,,SRC-B9-TON-054,HD status cannot be determined
+J-TUV,PW-B9-TUV-P1,cannot_determine,,,HD status cannot be determined
+J-BOL,PW-B9-BOL-P1,cannot_determine,,SRC-B9-BOL-070,HD status cannot be determined
+J-BRA,PW-B9-BRA-P1,cannot_determine,,SRC-B9-BRA-081,HD status cannot be determined
+J-CHL,PW-B9-CHL-P1,cannot_determine,,SRC-B9-CHL-080;SRC-B9-CHL-073,HD status cannot be determined
+J-ECU,PW-B9-ECU-P1,cannot_determine,,SRC-B9-ECU-102;SRC-B9-ECU-093,HD status cannot be determined
+J-PRY,PW-B9-PRY-P1,cannot_determine,,SRC-B9-PRY-090,HD status cannot be determined
+J-SUR,PW-B9-SUR-P1,cannot_determine,,SRC-B9-SUR-087;SRC-B9-SUR-089;SRC-B9-SUR-088,HD status cannot be determined
+J-URY,PW-B9-URY-P2,cannot_determine,,SRC-B9-URY-095;SRC-B9-URY-094,HD status cannot be determined
+J-VEN,PW-B9-VEN-P1,cannot_determine,,,HD status cannot be determined

@@ -1,0 +1,8 @@
+jurisdiction_id,pathway_id,trigger_type,trigger_value,source_ids,notes
+J-BTN,PW-B4-BTN-1,visa_class_or_duration,re-entry test after absence of 30 days or more,S-B4-BTN-MOH_FormD_workpermit_medical,from E-B4-018
+J-IND,PW-B4-IND-1,visa_class_or_duration,age 15-60 and visa > 1 year,S-B4-IND-MEA_FRRO_checklist,from E-B4-001
+J-KAZ,PW-B4-KAZ-1,all_applicants,all foreigners and stateless persons,S-B4-KAZ-adilet_V1100007274_ru,from E-B4-041
+J-MDV,PW-B4-MDV-1,all_applicants,all work permit applicants,S-B4-MDV-MOH_workpermit_medical_pdf,from E-B4-028
+J-MDV,PW-B4-MDV-1,origin_endemic_country,origin from endemic country/area,S-B4-MDV-MOH_workpermit_medical_pdf,from E-B4-032
+J-MDV,PW-B4-MDV-1,origin_endemic_country,origin from leprosy endemic country,S-B4-MDV-MOH_workpermit_medical_pdf,from E-B4-035
+J-TJK,PW-B4-TJK-1,visa_class_or_duration,visa > 3 months,S-B4-TJK-consular_workvisa_M,from E-B4-050

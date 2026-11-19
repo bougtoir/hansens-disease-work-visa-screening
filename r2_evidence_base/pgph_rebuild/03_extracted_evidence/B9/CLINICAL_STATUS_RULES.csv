@@ -1,0 +1,6 @@
+jurisdiction_id,pathway_id,active_untreated,on_treatment,mdt_completed,cured,residual_sequelae,source_ids,notes
+J-USA,PW-B9-USA-P2,mentioned_excluded,mentioned_conditional,mentioned_exempt,not_addressed,not_addressed,SRC-B9-USA-022;SRC-B9-USA-023,untreated=Class A; >=7 days therapy -> Class B; treated/partially treated = Class B (not inadmissible). 'cured' not separately addressed
+J-USA,PW-B9-USA-P1,mentioned_excluded,mentioned_conditional,mentioned_exempt,not_addressed,not_addressed,SRC-B9-USA-023,same TI applies when NIV exam is performed
+J-CAN,PW-B9-CAN-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,SRC-B9-CAN-035,leprosy screening item; no treatment-state rule located
+J-WSM,PW-B9-WSM-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,SRC-B9-WSM-062,declaration only
+J-GUY,PW-B9-GUY-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,SRC-B9-GUY-079,'suffering from any variety of leprosy' - no treatment-state distinction; ambiguity does not establish exclusion of cured persons

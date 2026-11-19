@@ -1,0 +1,143 @@
+jurisdiction_id,pathway_id,active_untreated,on_treatment,mdt_completed,cured,residual_sequelae,source_ids,notes
+J-AGO,PW-AGO-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-AGO-001;S-AGO-002;S-AGO-005;S-AGO-003;S-AGO-009;S-AGO-008,No clinical-state distinction located in opened sources.
+J-BEN,PW-BEN-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BEN-001;S-BEN-002;S-BEN-003,No clinical-state distinction located in opened sources.
+J-BEN,PW-BEN-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BEN-004,No clinical-state distinction located in opened sources.
+J-BFA,PW-BFA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BFA-001;S-BFA-005;S-BFA-004;S-BFA-003,No clinical-state distinction located in opened sources.
+J-CAF,PW-CAF-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-CAF-002;S-CAF-001,No clinical-state distinction located in opened sources.
+J-CIV,PW-CIV-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-CIV-002;S-CIV-003;S-CIV-001,No clinical-state distinction located in opened sources.
+J-CMR,PW-CMR-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-CMR-001;S-CMR-002,No clinical-state distinction located in opened sources.
+J-COD,PW-COD-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-COD-001;S-COD-003;S-COD-004;S-COD-002,No clinical-state distinction located in opened sources.
+J-COG,PW-COG-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-COG-001;S-COG-002;S-COG-003,No clinical-state distinction located in opened sources.
+J-CPV,PW-CPV-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-CPV-003;S-CPV-001,No clinical-state distinction located in opened sources.
+J-CPV,PW-CPV-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-CPV-002,No clinical-state distinction located in opened sources.
+J-GAB,PW-GAB-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GAB-001;S-GAB-002;S-GAB-003,No clinical-state distinction located in opened sources.
+J-GHA,PW-GHA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GHA-001;S-GHA-002;S-GHA-004,No clinical-state distinction located in opened sources.
+J-GIN,PW-GIN-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GIN-001;S-GIN-003;S-GIN-002,No clinical-state distinction located in opened sources.
+J-GMB,PW-GMB-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GMB-003;S-GMB-002;S-GMB-001;S-GMB-004,No clinical-state distinction located in opened sources.
+J-GNB,PW-GNB-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GNB-001;S-GNB-002,No clinical-state distinction located in opened sources.
+J-GNQ,PW-GNQ-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GNQ-001,No clinical-state distinction located in opened sources.
+J-LBR,PW-LBR-P1,mentioned_excluded,not_addressed,not_addressed,not_addressed,not_addressed,S-LBR-006;S-LBR-001;S-LBR-002;S-LBR-004,"'afflicted with ... leprosy' excludes current disease; on-treatment, MDT-completed, cured and sequelae states not addressed."
+J-MLI,PW-MLI-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MLI-001;S-MLI-002;S-MLI-003,No clinical-state distinction located in opened sources.
+J-MRT,PW-MRT-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MRT-001;S-MRT-002,No clinical-state distinction located in opened sources.
+J-NER,PW-NER-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-NER-002;S-NER-001;S-NER-003;S-NER-004,No clinical-state distinction located in opened sources.
+J-NGA,PW-NGA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-NGA-002;S-NGA-001;S-NGA-005;S-NGA-003;S-NGA-007;S-NGA-006,No clinical-state distinction located in opened sources.
+J-SEN,PW-SEN-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SEN-001;S-SEN-002;S-SEN-004;S-SEN-006;S-SEN-005,No clinical-state distinction located in opened sources.
+J-SLE,PW-SLE-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SLE-002;S-SLE-001,No clinical-state distinction located in opened sources.
+J-STP,PW-STP-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-STP-002;S-STP-001,No clinical-state distinction located in opened sources.
+J-TCD,PW-TCD-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-TCD-001;S-TCD-002;S-TCD-004;S-TCD-003,No clinical-state distinction located in opened sources.
+J-TGO,PW-TGO-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-TGO-003;S-TGO-001;S-TGO-004;S-TGO-002,No clinical-state distinction located in opened sources.
+J-BDI,PW-BDI-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BDI-001,HD not named in located sources
+J-BWA,PW-BWA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BWA-006,HD not named in located sources
+J-COM,PW-COM-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-COM-001,HD not named in located sources
+J-COM,PW-COM-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-COM-002,HD not named in located sources
+J-DJI,PW-DJI-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-DJI-002,HD not named in located sources
+J-ERI,PW-ERI-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ERI-003,HD not named in located sources
+J-ETH,PW-ETH-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ETH-005,HD not named in located sources
+J-KEN,PW-KEN-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-KEN-010,HD not named in located sources
+J-LSO,PW-LSO-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-LSO-001,HD not named in located sources
+J-MDG,PW-MDG-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,,HD not named in located sources
+J-MDG,PW-MDG-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MDG-007,HD not named in located sources
+J-MOZ,PW-MOZ-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MOZ-001;S-MOZ-002,HD not named in located sources
+J-MUS,PW-MUS-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MUS-001;S-MUS-002;S-MUS-003,Requirement to be certified free of leprosy; treatment states and consequence not stated
+J-MUS,PW-MUS-P2,mentioned_conditional,not_addressed,mentioned_conditional,mentioned_conditional,not_addressed,S-MUS-005,EDB Annex 9.1 note 4: applicants who tested positive for leprosy and 'subsequently undergone the appropriate treatment' must undergo new tests in Mauritius; MDT not named; outcome after retest not stated
+J-MWI,PW-MWI-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MWI-007;S-MWI-002,HD not named in located sources
+J-NAM,PW-NAM-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-NAM-006;S-NAM-002,"Form asks 'ever suffered, or is at present suffering from' leprosy (history disclosure covers past/cured disease) but states no consequence by clinical state"
+J-RWA,PW-RWA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-RWA-002,HD not named in located sources
+J-SOM,PW-SOM-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SOM-005,HD not named in located sources
+J-SOM,PW-SOM-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SOM-004,HD not named in located sources
+J-SSD,PW-SSD-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SSD-001,HD not named in located sources
+J-SWZ,PW-SWZ-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SWZ-002,HD not named in located sources
+J-SYC,PW-SYC-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,,HD not named in located sources
+J-SYC,PW-SYC-P3,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SYC-005,HD not named in located sources
+J-TZA,PW-TZA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-TZA-003,HD not named in located sources
+J-UGA,PW-UGA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-UGA-001,HD not named in located sources
+J-ZAF,PW-ZAF-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ZAF-005;S-ZAF-002;S-ZAF-004;S-ZAF-003,HD not named in located sources
+J-ZMB,PW-ZMB-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ZMB-005;S-ZMB-001,HD not named in located sources
+J-ZMB,PW-ZMB-P3,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ZMB-003,HD not named in located sources
+J-ZWE,PW-ZWE-P1,mentioned_conditional,not_addressed,not_addressed,not_addressed,not_addressed,S-ZWE-004;S-ZWE-001;S-ZWE-002,Persons 'infected or afflicted with or suffering from' a prescribed disease (incl. leprosy) are prohibited unless holding a permit with reg. 39 conditions; past/cured states not addressed
+J-ARE,PW-ARE-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SAU-001;S-ARE-003,"Leprosy is unqualified in the FAQ. Effect on a treated, cured, or non-infectious applicant cannot be determined."
+J-ARE,PW-ARE-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ARE-004;S-ARE-005,"Official descriptions mention a positive result but do not define whether a previously treated, cured, or non-infectious person can be considered positive by the programme."
+J-BHR,PW-BHR-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SAU-001;S-ARE-003,"Leprosy is unqualified in the FAQ. Effect on a treated, cured, or non-infectious applicant cannot be determined."
+J-KWT,PW-KWT-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SAU-001;S-ARE-003,"Leprosy is unqualified in the FAQ. Effect on a treated, cured, or non-infectious applicant cannot be determined."
+J-OMN,PW-OMN-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SAU-001;S-ARE-003,"Leprosy is unqualified in the FAQ. Effect on a treated, cured, or non-infectious applicant cannot be determined."
+J-QAT,PW-QAT-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SAU-001;S-ARE-003,"Leprosy is unqualified in the FAQ. Effect on a treated, cured, or non-infectious applicant cannot be determined."
+J-SAU,PW-SAU-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SAU-001;S-ARE-003,"Leprosy is unqualified in the FAQ. Effect on a treated, cured, or non-infectious applicant cannot be determined."
+J-AFG,PW-B4-AFG-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-AFG-RecruitForeigners_reg_kakar;S-B4-AFG-MFA_econsulate_visa,Cannot determine (no complete official requirement / referenced list not obtained).
+J-BGD,PW-B4-BGD-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-BGD-VisaPolicy2026_SB;S-B4-BGD-ForeignersOrder1951_refworld,Cannot determine (no complete official requirement / referenced list not obtained).
+J-BTN,PW-B4-BTN-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-BTN-MOH_FormD_workpermit_medical;S-B4-BTN-ImmigrationRules2015_eregs,HD not named; clinical-status rules for HD not applicable/not located.
+J-IND,PW-B4-IND-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-IND-MEA_FRRO_checklist;S-B4-IND-IFAct2025_prs;S-B4-IND-IFOrder2025_thc;S-B4-IND-IFRules2025_mha,HD not named; clinical-status rules for HD not applicable/not located.
+J-IRN,PW-B4-IRN-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-IRN-novinlaw_EntryResidence_regs;S-B4-IRN-shenasname_workpermit_instruction_full,Cannot determine (no complete official requirement / referenced list not obtained).
+J-KAZ,PW-B4-KAZ-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-KAZ-adilet_V1100007274_ru;S-B4-KAZ-MigrationLaw477_ru_uchet,Order 664 names leprosy without any distinction by clinical/treatment status.
+J-KGZ,PW-B4-KGZ-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-KGZ-newscomkg_spravka086;S-B4-KGZ-tunduk_spravka086_service,Cannot determine (no complete official requirement / referenced list not obtained).
+J-LKA,PW-B4-LKA-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-LKA-IHAP_counseling_msg;S-B4-LKA-IHAP_home;S-B4-LKA-DIE_residence_visa;S-B4-LKA-ImmEmigAct_lankalaw_html,HD not named; clinical-status rules for HD not applicable/not located.
+J-MDV,PW-B4-MDV-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-MDV-MOH_workpermit_medical_pdf;S-B4-MDV-MOH_workpermit_medical_older_pdf;S-B4-MDV-ONE_workpermit_medical_guideline,Leprosy outcome keyed to sign 'skin patch with loss of sensation' (Grade B) irrespective of treatment status; history of treatment elicited without stated rule; deformities trigger referral.
+J-NPL,PW-B4-NPL-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-NPL-ImmigrationRules2051_eng_mirror;S-B4-NPL-ImmigrationRules2051_lawcomm,Cannot determine (no complete official requirement / referenced list not obtained).
+J-PAK,PW-B4-PAK-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-PAK-ForeignersOrder1951_refworld,Cannot determine (no complete official requirement / referenced list not obtained).
+J-TJK,PW-B4-TJK-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-TJK-consular_workvisa_M;S-B4-TJK-migrationtj_workpermit_procedure_tg,Cannot determine (no complete official requirement / referenced list not obtained).
+J-TKM,PW-B4-TKM-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-TKM-infotrade_MigrationLaw2012_ru_pdf,Cannot determine (no complete official requirement / referenced list not obtained).
+J-UZB,PW-B4-UZB-1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-B4-UZB-lex_ORQ692_labour_migration,Cannot determine (no complete official requirement / referenced list not obtained).
+J-BRN,PW-BRN-P1,mentioned_excluded,mentioned_excluded,mentioned_excluded,mentioned_excluded,not_addressed,S-BRN-003,"Part II addresses any history of illness/treatment, which includes successfully treated cases."
+J-CHN,PW-CHN-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-CHN-009,No explicit cured/treated/sequelae provision. HD appears on the present-examination panel.
+J-MYS,PW-MYS-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MYS-001,No HD treatment-stage distinction was located.
+J-SGP,PW-SGP-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SGP-002,The official form gives no clinical-stage or treatment-history distinction for HD.
+J-SGP,PW-SGP-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SGP-004,The official form gives no clinical-stage or treatment-history distinction for HD.
+J-THA,PW-THA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-THA-002,Two prongs are stated: contagious disease or qualifying symptomatic appearance. The guide does not expressly address cured participants or residual sequelae.
+J-TWN,PW-TWN-P3,mentioned_conditional,mentioned_conditional,mentioned_conditional,not_addressed,not_addressed,S-TWN-008;S-TWN-009;S-TWN-001,Confirmed disease in the Taiwan pathway initiates the treatment programme; designated-hospital failure requires both clinical and laboratory/pathology criteria. Completed treatment is accepted when officially confirmed. Overseas treatment histories are not separately resolved.
+J-TWN,PW-TWN-P4,mentioned_conditional,mentioned_conditional,mentioned_conditional,not_addressed,not_addressed,S-TWN-008;S-TWN-009;S-TWN-001,Confirmed disease in the Taiwan pathway initiates the treatment programme; designated-hospital failure requires both clinical and laboratory/pathology criteria. Completed treatment is accepted when officially confirmed. Overseas treatment histories are not separately resolved.
+J-BEL,PW-BEL-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BEL-007;S-BEL-004,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-AUT,PW-AUT-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-AUT-009;S-AUT-006;S-AUT-003,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-FRA,PW-FRA-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-FRA-007;S-FRA-001,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-GBR,PW-GBR-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-GBR-001;S-GBR-002;S-GBR-003,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-IRL,PW-IRL-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-IRL-001,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-ISL,PW-ISL-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ISL-001;S-ISL-002,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-LUX,PW-LUX-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-LUX-001;S-LUX-002,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-LVA,PW-LVA-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-LVA-001,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-NLD,PW-NLD-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-NLD-001;S-NLD-002,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-NOR,PW-NOR-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-NOR-001,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-EST,PW-EST-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-EST-003;S-EST-001;S-EST-004,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-CHE,PW-CHE-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-CHE-002;S-CHE-003,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-DEU,PW-DEU-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-DEU-001;S-DEU-002;S-DEU-003,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-DNK,PW-DNK-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-FIN,PW-FIN-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-FIN-005,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-LIE,PW-LIE-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-LIE-005,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-LTU,PW-LTU-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-LTU-002;S-LTU-001,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-MCO,PW-MCO-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-MCO-003;S-MCO-004,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-SWE,PW-SWE-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-SWE-001;S-SWE-003,HD not named in located sources; clinical-state columns refer to HD. TB-specific clinical wording recorded in EVIDENCE_ROWS.clinical_state_rule where present.
+J-ALB,B7-ALB-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-ALB_Law79_2021_SQ;B7S-ALB_Law79_2021_EN;B7S-ALB_UniquePermitForm;B7S-ALB_Udhezim3_2023,
+J-AND,B7-AND-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-AND_LQI_art12_juris;B7S-AND_LQI_art44_juris;B7S-AND_ReglRevMed2010_regest,
+J-AND,B7-AND-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-AND_Regl2025_art7_juris,
+J-BGR,B7-BGR-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-BGR_ForeignersAct_BG;B7S-BGR_ForeignersAct_EN;B7S-BGR_PPZChRB_2026;B7S-BGR_MFA_VisaD;B7S-BGR_LabourMigrationAct,
+J-BIH,B7-BIH-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-BIH_ZakonStrancima_parl;B7S-BIH_Rulebook_EN,
+J-BLR,B7-BLR-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-BLR_Buklet_WorkingBelarus,
+J-CZE,B7-CZE-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-CZE_IPC_bezinfekcnost;B7S-CZE_IPC_medreport;B7S-CZE_Act326_1999_zpl;B7S-CZE_Decree274_2004,repealed Decree 274/2004 specified 'active stage' TB (historical only)
+J-ESP,B7-ESP-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-ESP_MAEC_Tegucigalpa_visadotrabajo;B7S-ESP_MAEC_Miami_employeevisa,
+J-GRC,B7-GRC-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-GRC_Law5038_2023_FEK;B7S-GRC_MoM_KYA_dikaiologitika2024;B7S-GRC_MoM_AP21644_2010;B7S-GRC_MFA_iatriko_egkyklios2012,
+J-HRV,B7-HRV-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-HRV_NN79_2026_Odluka_zakonhr;B7S-HRV_HZJZ_pregledi_stranih_radnika;B7S-HRV_MZ_news7481,decision targets 'aktivnu tuberkulozu'; positives referred to treatment; no eligibility rule by state
+J-HUN,B7-HUN-P2,mentioned_conditional,mentioned_conditional,not_addressed,not_addressed,not_addressed,B7S-HUN_Decree32_2007_EuM_njt;B7S-HUN_Act2023_XC_njt;B7S-HUN_Decree114_2007_njt,Act XC 2023 §226(1)(c): refusal/withdrawal where disease AND not submitting to mandatory regular care
+J-ITA,B7-ITA-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-ITA_MAECI_Seoul_employmentvisa;B7S-ITA_Prefettura_AP_vademecum;B7S-ITA_DLgs286_1998_normattiva,
+J-MDA,B7-MDA-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-MDA_MFA_residence_work;B7S-MDA_Law200_2010_legis;B7S-MDA_IGM_legal_employment,
+J-MKD,B7-MKD-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-MKD_LawForeigners2023_EN_refworld,
+J-MLT,B7-MLT-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-MLT_HPDP_FAQ_firsttime_2026;B7S-MLT_HPDP_IDCU_firsttime;B7S-MLT_IdM_mandatory_change_screening;B7S-MLT_IdM_checklist_singlepermit;B7S-MLT_Cap217_legislation_mt;B7S-MT_Cap36_pdf,
+J-MNE,B7-MNE-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,,
+J-POL,B7-POL-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-POL_MSWiA_entry_work;B7S-POL_Ustawa_cudzoziemcy_2024_769;B7S-POL_SIPLex_DzU2015_1501,
+J-PRT,B7-PRT-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-PRT_Lei23_2007_EN_dre;B7S-PRT_Lei23_2007_pgdl_art;B7S-PRT_DR84_2007_pgdl_art,
+J-ROU,B7-ROU-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-ROU_IGI_cum_muncesc,
+J-RUS,B7-RUS-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-RUS_MoH1079n_pravo_pdf;B7S-RUS_MoH1079n_appendix_garant;B7S-RUS_FZ115_art7_consultant;B7S-RU_MoH384n_garant,
+J-SMR,B7-SMR-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-SMR_Permesso13_lavoro_temp;B7S-SMR_Law118_2010_coord2024;B7S-SMR_Permesso14_infermieri,
+J-SRB,B7-SRB-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-SRB_MUP_temporary_residence_EN;B7S-SRB_ZakonStrancima2023_MUP,
+J-SVK,B7-SVK-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-SVK_Act404_2011_slovlex;B7S-SVK_MINV_FAQ32_lekarske_potvrdenie;B7S-SVK_IOM_MIC_application_TR,
+J-SVN,B7-SVN-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-SVN_Infotujci_single_permit;B7S-SVN_ZTuj2_pisrs,
+J-UKR,B7-UKR-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-UKR_DMSU_TRP_UK;B7S-UKR_DMSU_TRP_EN,
+J-VAT,B7-VAT-P3,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-VAT_Legge_cittadinanza_residenza_2011;B7S-VAT_Vatican_cittadinanza_info,
+J-XKX,B7-XKX-P2,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,B7S-XKX_LawForeigners_2025_IP,
+J-ATG,PW-ATG-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-ATG-001,No clinical-state distinctions; s.49 treatment permit
+J-BHS,PW-BHS-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BHS-001,Generic contagious/infectious disease; 'dangerous to the community' qualifier assessed by appointed practitioner; HD not named
+J-BLZ,PW-BLZ-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BLZ-001,Generic communicable disease; dangerousness qualifier certified by medical practitioner
+J-BRB,PW-BRB-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-BRB-001;S-BRB-004,Act para 2: 'Persons suffering from communicable diseases'; no treatment/cure/MDT wording. 'Suffering from' wording is ambiguous for cured persons.
+J-BRB,PW-BRB-P2,not_addressed,mentioned_conditional,not_addressed,not_addressed,not_addressed,S-BRB-001,s.5(3)(a): period as inmate of a hospital for treatment of leprosy not counted toward PR residence
+J-DOM,PW-DOM-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,S-DOM-001,Severity/'risk to public health' qualifiers
+J-USA,PW-B9-USA-P2,mentioned_excluded,mentioned_conditional,mentioned_exempt,not_addressed,not_addressed,SRC-B9-USA-022;SRC-B9-USA-023,untreated=Class A; >=7 days therapy -> Class B; treated/partially treated = Class B (not inadmissible). 'cured' not separately addressed
+J-USA,PW-B9-USA-P1,mentioned_excluded,mentioned_conditional,mentioned_exempt,not_addressed,not_addressed,SRC-B9-USA-023,same TI applies when NIV exam is performed
+J-CAN,PW-B9-CAN-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,SRC-B9-CAN-035,leprosy screening item; no treatment-state rule located
+J-WSM,PW-B9-WSM-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,SRC-B9-WSM-062,declaration only
+J-GUY,PW-B9-GUY-P1,not_addressed,not_addressed,not_addressed,not_addressed,not_addressed,SRC-B9-GUY-079,'suffering from any variety of leprosy' - no treatment-state distinction; ambiguity does not establish exclusion of cured persons

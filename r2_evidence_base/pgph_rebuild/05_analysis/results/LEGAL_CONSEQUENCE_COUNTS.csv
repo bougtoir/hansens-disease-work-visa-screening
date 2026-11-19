@@ -1,0 +1,9 @@
+consequence,direct,explicitly_unavailable,linked,documented,generic_only_unknown,not_located,documented_mechanisms,auto_screen
+unfit,10,0,1,11,1,12,6,10.0
+visa_permit_refusal_inadmissibility,8,0,6,14,2,8,9,10.0
+entry_denial,7,0,0,7,2,15,7,5.0
+removal_deportation,2,0,3,5,2,17,4,6.0
+work_authorisation_denial_revocation,2,0,3,5,3,16,5,5.0
+appeal,2,0,0,2,2,20,2,
+waiver,5,1,0,5,0,18,5,
+retest,4,0,0,4,1,19,3,

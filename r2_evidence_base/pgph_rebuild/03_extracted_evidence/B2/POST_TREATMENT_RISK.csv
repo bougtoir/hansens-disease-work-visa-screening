@@ -1,0 +1,30 @@
+jurisdiction_id,pathway_id,risk_status,mechanism,source_ids,notes
+J-BDI,PW-BDI-P1,cannot_determine,HD status cannot be determined from located sources,S-BDI-001,Coded separately from disease naming and actual denial
+J-BWA,PW-BWA-P1,cannot_determine,HD status cannot be determined from located sources,S-BWA-006,Coded separately from disease naming and actual denial
+J-COM,PW-COM-P1,cannot_determine,HD status cannot be determined from located sources,S-COM-001,Coded separately from disease naming and actual denial
+J-COM,PW-COM-P2,cannot_determine,HD status cannot be determined from located sources,S-COM-002,Coded separately from disease naming and actual denial
+J-DJI,PW-DJI-P1,cannot_determine,HD status cannot be determined from located sources,S-DJI-002,Coded separately from disease naming and actual denial
+J-ERI,PW-ERI-P1,cannot_determine,HD status cannot be determined from located sources,S-ERI-003,Coded separately from disease naming and actual denial
+J-ETH,PW-ETH-P1,not_applicable_hd_not_named,HD not named in located applicable sources,S-ETH-005,Coded separately from disease naming and actual denial
+J-KEN,PW-KEN-P1,cannot_determine,HD status cannot be determined from located sources,S-KEN-010,Coded separately from disease naming and actual denial
+J-LSO,PW-LSO-P1,cannot_determine,HD status cannot be determined from located sources,S-LSO-001,Coded separately from disease naming and actual denial
+J-MDG,PW-MDG-P1,cannot_determine,HD status cannot be determined from located sources,,Coded separately from disease naming and actual denial
+J-MDG,PW-MDG-P2,cannot_determine,HD status cannot be determined from located sources,S-MDG-007,Coded separately from disease naming and actual denial
+J-MOZ,PW-MOZ-P1,cannot_determine,HD status cannot be determined from located sources,S-MOZ-001;S-MOZ-002,Coded separately from disease naming and actual denial
+J-MUS,PW-MUS-P1,no_treatment_distinction_named_condition,Certification of being free of leprosy required for listed nationals; no treatment-state distinction,S-MUS-001;S-MUS-002;S-MUS-003,Coded separately from disease naming and actual denial
+J-MUS,PW-MUS-P2,treatment_distinction_exempts_or_conditional,Annex 9.1 note 4: post-treatment applicants must undergo new medical tests (conditional pathway),S-MUS-005,Coded separately from disease naming and actual denial
+J-MWI,PW-MWI-P1,cannot_determine,HD status cannot be determined from located sources,S-MWI-007;S-MWI-002,Coded separately from disease naming and actual denial
+J-NAM,PW-NAM-P1,no_treatment_distinction_named_condition,Lifetime history question (ever suffered) on employment-permit form; no consequence or treatment distinction stated,S-NAM-006;S-NAM-002,Coded separately from disease naming and actual denial
+J-RWA,PW-RWA-P1,cannot_determine,HD status cannot be determined from located sources,S-RWA-002,Coded separately from disease naming and actual denial
+J-SOM,PW-SOM-P1,cannot_determine,HD status cannot be determined from located sources,S-SOM-005,Coded separately from disease naming and actual denial
+J-SOM,PW-SOM-P2,cannot_determine,HD status cannot be determined from located sources,S-SOM-004,Coded separately from disease naming and actual denial
+J-SSD,PW-SSD-P1,cannot_determine,HD status cannot be determined from located sources,S-SSD-001,Coded separately from disease naming and actual denial
+J-SWZ,PW-SWZ-P1,cannot_determine,HD status cannot be determined from located sources,S-SWZ-002,Coded separately from disease naming and actual denial
+J-SYC,PW-SYC-P1,cannot_determine,HD status cannot be determined from located sources,,Coded separately from disease naming and actual denial
+J-SYC,PW-SYC-P3,cannot_determine,HD status cannot be determined from located sources,S-SYC-005,Coded separately from disease naming and actual denial
+J-TZA,PW-TZA-P1,not_applicable_hd_not_named,HD not named in located applicable sources,S-TZA-003,Coded separately from disease naming and actual denial
+J-UGA,PW-UGA-P1,cannot_determine,HD status cannot be determined from located sources,S-UGA-001,Coded separately from disease naming and actual denial
+J-ZAF,PW-ZAF-P1,cannot_determine,HD status cannot be determined from located sources,S-ZAF-005;S-ZAF-002;S-ZAF-004;S-ZAF-003,Coded separately from disease naming and actual denial
+J-ZMB,PW-ZMB-P1,cannot_determine,HD status cannot be determined from located sources,S-ZMB-005;S-ZMB-001,Coded separately from disease naming and actual denial
+J-ZMB,PW-ZMB-P3,cannot_determine,HD status cannot be determined from located sources,S-ZMB-003,Coded separately from disease naming and actual denial
+J-ZWE,PW-ZWE-P1,no_treatment_distinction_named_condition,Prescribed disease (leprosy) ground with no treatment-state distinction; permit/conditions route,S-ZWE-004;S-ZWE-001;S-ZWE-002,Coded separately from disease naming and actual denial

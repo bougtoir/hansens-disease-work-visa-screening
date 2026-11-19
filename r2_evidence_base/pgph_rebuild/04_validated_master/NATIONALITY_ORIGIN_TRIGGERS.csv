@@ -1,0 +1,66 @@
+jurisdiction_id,pathway_id,trigger_type,trigger_value,source_ids,notes
+J-LBR,PW-LBR-P1,visa_class,all visa applicants / aliens seeking admission,S-LBR-006;S-LBR-001;S-LBR-002;S-LBR-004,§5.1 applies to all classes of aliens
+J-MUS,PW-MUS-P1,nationality,Brazil;India;Indonesia;Bangladesh;Democratic Republic of the Congo;Ethiopia;Madagascar;Mozambique;Myanmar;Nepal;Nigeria;Philippines;Somalia;Sri Lanka;Tanzania,S-MUS-001,HD (leprosy-free certificate) pre-arrival and on arrival
+J-MUS,PW-MUS-P1,nationality,American Samoa;Angola;Benin;Brunei Darussalam;Burkina Faso;Cameroon;Central African Republic;Chad;Comoros;Congo;Côte d’Ivoire;Democratic Republic of the Congo;Dominican Republic;Equatorial Guinea;Eritrea;Ethiopia;Fiji;French Polynesia;Ghana;Guinea;Guinea-Bissau;Haiti;India;Indonesia;Liberia;Madagascar;Malaysia;Mali;Mozambique;Myanmar;Nepal;New Caledonia;Niger;Nigeria;Papua New Guinea;Philippines;Samoa;Senegal;Sierra Leone;Sudan;Tanzania;Zimbabwe,S-MUS-001,FILARIASIS test
+J-MUS,PW-MUS-P1,nationality,India,S-MUS-003,Historical 2016 version: HD certificate for expatriates from India only
+J-MUS,PW-MUS-P2,nationality,India,S-MUS-005,HD test restricted to Indian nationals
+J-MUS,PW-MUS-P2,residence_or_origin,India;Bangladesh;Madagascar;Brazil;Comoros;Ivory Coast;Ghana;Indonesia;Kenya;Mozambique;Nepal;Nigeria;Philippines;Tanzania;Uganda;Vietnam,S-MUS-005,FILARIASIS test for non-citizens 'coming from' listed countries
+J-ZAF,PW-ZAF-P1,visa_class,radiological report for temporary visa applicants excluding s.11(1)(a) visitor visas; not required for children <12 or pregnant women,S-ZAF-002,TB
+J-ZWE,PW-ZWE-P1,visa_class,"radiologist certificate for entrants other than citizens, returning residents, s.15(1)(e) persons, bona fide visitors, children <3, TB-permit holders, exempted classes",S-ZWE-004,TB (reg. 7)
+J-ARE,PW-ARE-P1,programme_coverage,Source-country/location list in Wafid FAQ,S-SAU-001;S-ARE-003,"The official programme lists countries and booking selects examination country, city and GCC destination. "
+J-ARE,PW-ARE-P2,occupation,Domestic workers,S-ARE-004,Pregnancy examination only. The HD rule is described for new and renewal applicants.
+J-BHR,PW-BHR-P1,programme_coverage,Source-country/location list in Wafid FAQ,S-SAU-001;S-ARE-003,"The official programme lists countries and booking selects examination country, city and GCC destination. Bahrain LMRA has an official alternate non-Wafid form where there is no approved centre."
+J-BHR,PW-BHR-P2,occupation,"Specific jobs, e.g. health care and kindergartens workers (tuberculin skin test).",S-BHR-003,
+J-CYP,PW-CYP-P1,visa_class,Third-country national in general employment single permit (GEN).,S-CYP-002,
+J-CYP,PW-CYP-P2,visa_class,Third-country national in general employment single permit (GEN).,S-CYP-002,
+J-IRQ,PW-IRQ-P2-KRI,origin_country,Country the foreign entrant comes from,S-IRQ-004,The service explicitly says the types of tests vary by country of origin; a complete country-to-test mapping was not included.
+J-ISR,PW-ISR-P1-JPN,nationality,Japanese nationals in specialist occupations for stays of up to 45 days,S-ISR-004,"These workers are exempt from submitting a health certificate, PDF p. 1."
+J-KWT,PW-KWT-P1,programme_coverage,Source-country/location list in Wafid FAQ,S-SAU-001;S-ARE-003,"The official programme lists countries and booking selects examination country, city and GCC destination. "
+J-LBN,PW-LBN-P1,occupation,Foreign domestic service workers,S-LBN-002,
+J-OMN,PW-OMN-P1,programme_coverage,Source-country/location list in Wafid FAQ,S-SAU-001;S-ARE-003,"The official programme lists countries and booking selects examination country, city and GCC destination. "
+J-OMN,PW-OMN-P1,nationality,"India, Pakistan, Philippines, Bangladesh, Indonesia, Sri Lanka, Egypt, Sudan, Ethiopia, Syria and Nepal",S-OMN-003,"Royal Oman Police work-visa certificate requirement, independently of the regional programme's examination location list."
+J-OMN,PW-OMN-P2,occupation,Private driver,S-OMN-001,"Conditional hepatitis B/C fitness after sponsor commitment, PDF pp. 7–8."
+J-QAT,PW-QAT-P1,programme_coverage,Source-country/location list in Wafid FAQ,S-SAU-001;S-ARE-003,"The official programme lists countries and booking selects examination country, city and GCC destination. "
+J-QAT,PW-QAT-P2,occupation,"Newly arriving domestic workers, such as housekeepers and family drivers",S-QAT-003,PHCC designates certain health centres where the required residence tests can be completed; this is a service-location difference.
+J-SAU,PW-SAU-P1,programme_coverage,Source-country/location list in Wafid FAQ,S-SAU-001;S-ARE-003,"The official programme lists countries and booking selects examination country, city and GCC destination. "
+J-SYR,PW-SYR-P2,visa_class,One-year residence,S-SYR-001,The same source has a distinct one-to-three-month checklist without this item.
+J-BTN,PW-B4-BTN-1,visa_class_or_duration,re-entry test after absence of 30 days or more,S-B4-BTN-MOH_FormD_workpermit_medical,from E-B4-018
+J-IND,PW-B4-IND-1,visa_class_or_duration,age 15-60 and visa > 1 year,S-B4-IND-MEA_FRRO_checklist,from E-B4-001
+J-KAZ,PW-B4-KAZ-1,all_applicants,all foreigners and stateless persons,S-B4-KAZ-adilet_V1100007274_ru,from E-B4-041
+J-MDV,PW-B4-MDV-1,all_applicants,all work permit applicants,S-B4-MDV-MOH_workpermit_medical_pdf,from E-B4-028
+J-MDV,PW-B4-MDV-1,origin_endemic_country,origin from endemic country/area,S-B4-MDV-MOH_workpermit_medical_pdf,from E-B4-032
+J-MDV,PW-B4-MDV-1,origin_endemic_country,origin from leprosy endemic country,S-B4-MDV-MOH_workpermit_medical_pdf,from E-B4-035
+J-TJK,PW-B4-TJK-1,visa_class_or_duration,visa > 3 months,S-B4-TJK-consular_workvisa_M,from E-B4-050
+J-BRN,PW-BRN-P1,exam_country,Home country or country of permanent residence,S-BRN-001,
+J-CHN,PW-CHN-P2,visa_class,Residence for employment of one year or longer in Beijing Customs instructions,S-CHN-005,
+J-JPN,PW-JPN-P1,nationality/residence,Philippines and Nepal (2025-06-23); Viet Nam (2025-09-01). Indonesian certificate requirement scheduled for 2027-01-04. Myanmar and China implementation dates unset. Residence outside a designated country can remove applicability.,S-JPN-004,Specified Skilled Worker and other separately screened routes excluded from JPETS at time of review.
+J-KOR,PW-KOR-P1,visa_class,E-2 foreign language instruction,S-KOR-001,
+J-MNG,PW-MNG-P1,visa_class,Foreign worker employment permit sought for more than 30 days,S-MNG-002,Threshold in §2.6. Repeat testing upon extension under §2.10.
+J-MYS,PW-MYS-P1,visa_class,Visit Pass (Temporary Employment),S-MYS-004,
+J-PRK,PW-PRK-P1,origin,Areas where infectious diseases have occurred,S-PRK-001,Art. 24(4) in dated secondary translation. Generic and current application unverified.
+J-SGP,PW-SGP-P1,visa_class,Migrant Worker Work Permit,S-SGP-001,
+J-SGP,PW-SGP-P2,visa_class,Migrant Domestic Worker Work Permit,S-SGP-003,
+J-TLS,PW-TLS-P1,visa_class,"Work visa; Article 43(m) also lists specified temporary stay, Class II business and residence",S-TLS-007,
+J-TWN,PW-TWN-P3,nationality,Indonesian Type B and Foreign Skilled Workers,S-TWN-001,"Official notice effective 2026-01-01: pre-entry symptom questionnaire and post-entry stool exam for typhoid, paratyphoid and bacillary dysentery. Symptoms may trigger pre-entry visa non-issuance; post-entry test results do not determine examination pass/fail."
+J-TWN,PW-TWN-P4,nationality,Indonesian Type B and Foreign Skilled Workers,S-TWN-001,"Official notice effective 2026-01-01: pre-entry symptom questionnaire and post-entry stool exam for typhoid, paratyphoid and bacillary dysentery. Symptoms may trigger pre-entry visa non-issuance; post-entry test results do not determine examination pass/fail."
+J-TWN,PW-TWN-P4,origin,Foreign Skilled Workers from designated countries/areas in HD exemption list,S-TWN-004;S-TWN-008,"Full bilingual enumeration in Attachment, page 1. Applies to skilled workers, not a blanket exemption for Type B."
+J-VNM,PW-VNM-P1,exam_country,Country/territory covered by a mutual recognition treaty or agreement with Vietnam,S-VNM-001,Agreement is required for overseas-issued certificate; generally no more than 12 months old under this decree.
+J-AUT,PW-AUT-P2,residence,stay within 6 months before entry in a state designated by ordinance under FPG s23(1),S-AUT-006,S5 lead only
+J-FRA,PW-FRA-P2,nationality_or_origin,chest X-ray depending on country of origin,S-FRA-007,S3
+J-GBR,PW-GBR-P1,residence,continuous presence >=6 months in a TB6-listed country (incl. period within 6 months before application),S-GBR-001,S1
+J-ISL,PW-ISL-P2,nationality_or_origin,"applicants from Central and South America incl. Mexico, Europe outside EEA, Asia or Africa; exempt EEA, Switzerland, USA, Canada, Australia, New Zealand, Japan, Israel",S-ISL-001,"S2; wording ""Applicants from"""
+J-LUX,PW-LUX-P2,nationality,third-country nationals (non-EU/assimilated); exemptions for EU family members and long-term residents of other MS,S-LUX-001,S3
+J-NLD,PW-NLD-P2,nationality,exemption for nationals of countries in IND appendix list,S-NLD-001;S-NLD-002,S3/S2
+J-NOR,PW-NOR-P2,residence,persons from countries with high TB incidence (Helsedirektoratet list) staying >3 months with residence permit requirement,S-NOR-001,S1 s3-1 a
+J-NOR,PW-NOR-P2,occupation,"health and care services, teaching, childcare positions after >=3 months in high-incidence country in last 3 years",S-NOR-001,S1 s3-1 b
+J-HRV,B7-HRV-P2,nationality,nationals of visa-regime third countries,B7S-HRV_NN79_2026_Odluka_zakonhr,
+J-HRV,B7-HRV-P2,visa class,extension of temporary residence (work: employer referral),B7S-HRV_NN79_2026_Odluka_zakonhr,
+J-MLT,B7-MLT-P1,residence,born in or >=6 months residence in high/very-high TB-risk country (chest X-ray),B7S-MLT_HPDP_FAQ_firsttime_2026,
+J-MLT,B7-MLT-P1,occupation,certain job categories (hepatitis B screening),B7S-MLT_HPDP_IDCU_firsttime,
+J-CZE,B7-CZE-P2,residence,living in a risk area in country of origin (may be asked),B7S-CZE_IPC_bezinfekcnost,
+J-SRB,B7-SRB-P2,residence,arrival from area affected by epidemic of infectious diseases (entry),B7S-SRB_ZakonStrancima2023_MUP,
+J-RUS,B7-RUS-P1,visa class,foreign nationals applying for patent/work permit/TRP/RP (medical examination),B7S-RUS_MoH1079n_pravo_pdf,
+J-BRB,PW-BRB-P1,visa_class,long-term work permit (Medical Form listed); short-term permit list omits Medical Form,S-BRB-002,
+J-CAN,PW-B9-CAN-P1,prior_residence,residence >=6 months in designated country/territory (higher communicable disease incidence),SRC-B9-CAN-007,triggers IME for work permits >6 months / agricultural work
+J-PNG,PW-B9-PNG-P1,nationality,"Philippines: medical, radiology and NBI reports validated by PNG Embassy Manila",SRC-B9-PNG-039,"document-validation trigger, not a disease test"
+J-PLW,PW-B9-PLW-P1,country_of_origin,certificate issued by physician licensed in worker's country of origin,SRC-B9-PLW-068,exam location rule

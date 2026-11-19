@@ -1,0 +1,2 @@
+jurisdiction_id,risk_status,reason
+J-THA,no_treatment_distinction_named_condition,"Targeted check TC-THA: Thai Ministerial Regulation B.E. 2563 cl.3(1)/4(1) names โรคเรื้อน without stage/treatment qualifier while qualifying other diseases; same rule as GCC 'Leprosy' (no qualifier) -> no treatment distinction. Batch value cannot_determine was based on English S3 guidance only."

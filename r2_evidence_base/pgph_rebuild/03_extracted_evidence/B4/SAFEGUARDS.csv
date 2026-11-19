@@ -1,0 +1,15 @@
+jurisdiction_id,pathway_id,discretion,individual_assessment,retest,waiver,appeal_review,source_ids,notes
+J-AFG,PW-B4-AFG-1,unknown,unknown,unknown,unknown,unknown,S-B4-AFG-RecruitForeigners_reg_kakar;S-B4-AFG-MFA_econsulate_visa,
+J-BGD,PW-B4-BGD-1,unknown,unknown,unknown,unknown,unknown,S-B4-BGD-VisaPolicy2026_SB;S-B4-BGD-ForeignersOrder1951_refworld,Foreigners Order 1951 relies on opinion of the medical officer (S5).
+J-BTN,PW-B4-BTN-1,no_statement_located,no_statement_located,explicit_available,no_statement_located,no_statement_located,S-B4-BTN-MOH_FormD_workpermit_medical;S-B4-BTN-ImmigrationRules2015_eregs,"Form D note 5: re-entry medical test/s after absence of 30 days or more as deemed necessary (re-testing requirement, not an applicant remedy)."
+J-IND,PW-B4-IND-1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,explicit_unavailable,S-B4-IND-MEA_FRRO_checklist;S-B4-IND-IFAct2025_prs;S-B4-IND-IFOrder2025_thc;S-B4-IND-IFRules2025_mha,IF Act 2025 s.3 proviso: decision of the Immigration Officer 'shall be final and binding' (S5 copy of Act).
+J-IRN,PW-B4-IRN-1,unknown,unknown,unknown,unknown,unknown,S-B4-IRN-novinlaw_EntryResidence_regs;S-B4-IRN-shenasname_workpermit_instruction_full,
+J-KAZ,PW-B4-KAZ-1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-B4-KAZ-adilet_V1100007274_ru;S-B4-KAZ-MigrationLaw477_ru_uchet,
+J-KGZ,PW-B4-KGZ-1,unknown,unknown,unknown,unknown,unknown,S-B4-KGZ-newscomkg_spravka086;S-B4-KGZ-tunduk_spravka086_service,
+J-LKA,PW-B4-LKA-1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-B4-LKA-IHAP_counseling_msg;S-B4-LKA-IHAP_home;S-B4-LKA-DIE_residence_visa;S-B4-LKA-ImmEmigAct_lankalaw_html,
+J-MDV,PW-B4-MDV-1,no_statement_located,explicit_available,explicit_available,no_statement_located,no_statement_located,S-B4-MDV-MOH_workpermit_medical_pdf;S-B4-MDV-MOH_workpermit_medical_older_pdf;S-B4-MDV-ONE_workpermit_medical_guideline,Confirmatory tests in Maldives for suspected cases (one.gov.mv); abnormal/inconclusive findings referred to advanced care/national programme (PDHA s.5.5). No appeal or waiver statement located.
+J-NPL,PW-B4-NPL-1,unknown,unknown,unknown,unknown,unknown,S-B4-NPL-ImmigrationRules2051_eng_mirror;S-B4-NPL-ImmigrationRules2051_lawcomm,
+J-PAK,PW-B4-PAK-1,unknown,unknown,unknown,unknown,unknown,S-B4-PAK-ForeignersOrder1951_refworld,Foreigners Order 1951 relies on opinion of the medical officer (S5).
+J-TJK,PW-B4-TJK-1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-B4-TJK-consular_workvisa_M;S-B4-TJK-migrationtj_workpermit_procedure_tg,
+J-TKM,PW-B4-TKM-1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,S-B4-TKM-infotrade_MigrationLaw2012_ru_pdf,
+J-UZB,PW-B4-UZB-1,unknown,unknown,unknown,unknown,unknown,S-B4-UZB-lex_ORQ692_labour_migration,

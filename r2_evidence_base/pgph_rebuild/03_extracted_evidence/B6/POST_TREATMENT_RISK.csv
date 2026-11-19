@@ -1,0 +1,20 @@
+jurisdiction_id,pathway_id,risk_status,mechanism,source_ids,notes
+J-BEL,PW-BEL-P1,not_applicable_hd_not_named,,S-BEL-007;S-BEL-004,Derived from HD_NAMED; no HD-specific restriction located
+J-AUT,PW-AUT-P2,cannot_determine,HD status not determinable from located sources,S-AUT-009;S-AUT-006;S-AUT-003,Derived from HD_NAMED; no HD-specific restriction located
+J-FRA,PW-FRA-P2,cannot_determine,HD status not determinable from located sources,S-FRA-007;S-FRA-001,Derived from HD_NAMED; no HD-specific restriction located
+J-GBR,PW-GBR-P1,not_applicable_hd_not_named,,S-GBR-001;S-GBR-002;S-GBR-003,Derived from HD_NAMED; no HD-specific restriction located
+J-IRL,PW-IRL-P1,not_applicable_hd_not_named,,S-IRL-001,Derived from HD_NAMED; no HD-specific restriction located
+J-ISL,PW-ISL-P2,not_applicable_hd_not_named,,S-ISL-001;S-ISL-002,Derived from HD_NAMED; no HD-specific restriction located
+J-LUX,PW-LUX-P2,cannot_determine,HD status not determinable from located sources,S-LUX-001;S-LUX-002,Derived from HD_NAMED; no HD-specific restriction located
+J-LVA,PW-LVA-P2,not_applicable_hd_not_named,,S-LVA-001,Derived from HD_NAMED; no HD-specific restriction located
+J-NLD,PW-NLD-P2,not_applicable_hd_not_named,,S-NLD-001;S-NLD-002,Derived from HD_NAMED; no HD-specific restriction located
+J-NOR,PW-NOR-P2,not_applicable_hd_not_named,,S-NOR-001,Derived from HD_NAMED; no HD-specific restriction located
+J-EST,PW-EST-P1,cannot_determine,HD status not determinable from located sources,S-EST-003;S-EST-001;S-EST-004,Derived from HD_NAMED; no HD-specific restriction located
+J-CHE,PW-CHE-P1,cannot_determine,HD status not determinable from located sources,S-CHE-002;S-CHE-003,Derived from HD_NAMED; no HD-specific restriction located
+J-DEU,PW-DEU-P1,cannot_determine,HD status not determinable from located sources,S-DEU-001;S-DEU-002;S-DEU-003,Derived from HD_NAMED; no HD-specific restriction located
+J-DNK,PW-DNK-P1,cannot_determine,HD status not determinable from located sources,,Derived from HD_NAMED; no HD-specific restriction located
+J-FIN,PW-FIN-P1,cannot_determine,HD status not determinable from located sources,S-FIN-005,Derived from HD_NAMED; no HD-specific restriction located
+J-LIE,PW-LIE-P1,cannot_determine,HD status not determinable from located sources,S-LIE-005,Derived from HD_NAMED; no HD-specific restriction located
+J-LTU,PW-LTU-P1,cannot_determine,HD status not determinable from located sources,S-LTU-002;S-LTU-001,Derived from HD_NAMED; no HD-specific restriction located
+J-MCO,PW-MCO-P1,cannot_determine,HD status not determinable from located sources,S-MCO-003;S-MCO-004,Derived from HD_NAMED; no HD-specific restriction located
+J-SWE,PW-SWE-P1,cannot_determine,HD status not determinable from located sources,S-SWE-001;S-SWE-003,Derived from HD_NAMED; no HD-specific restriction located

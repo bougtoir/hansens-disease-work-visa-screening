@@ -1,0 +1,9 @@
+jurisdiction_id,pathway_id,trigger_type,trigger_value,source_ids,notes
+J-AUT,PW-AUT-P2,residence,stay within 6 months before entry in a state designated by ordinance under FPG s23(1),S-AUT-006,S5 lead only
+J-FRA,PW-FRA-P2,nationality_or_origin,chest X-ray depending on country of origin,S-FRA-007,S3
+J-GBR,PW-GBR-P1,residence,continuous presence >=6 months in a TB6-listed country (incl. period within 6 months before application),S-GBR-001,S1
+J-ISL,PW-ISL-P2,nationality_or_origin,"applicants from Central and South America incl. Mexico, Europe outside EEA, Asia or Africa; exempt EEA, Switzerland, USA, Canada, Australia, New Zealand, Japan, Israel",S-ISL-001,"S2; wording ""Applicants from"""
+J-LUX,PW-LUX-P2,nationality,third-country nationals (non-EU/assimilated); exemptions for EU family members and long-term residents of other MS,S-LUX-001,S3
+J-NLD,PW-NLD-P2,nationality,exemption for nationals of countries in IND appendix list,S-NLD-001;S-NLD-002,S3/S2
+J-NOR,PW-NOR-P2,residence,persons from countries with high TB incidence (Helsedirektoratet list) staying >3 months with residence permit requirement,S-NOR-001,S1 s3-1 a
+J-NOR,PW-NOR-P2,occupation,"health and care services, teaching, childcare positions after >=3 months in high-incidence country in last 3 years",S-NOR-001,S1 s3-1 b

@@ -1,0 +1,10 @@
+jurisdiction_id,pathway_id,discretion,individual_assessment,retest,waiver,appeal_review,source_ids,notes
+J-USA,PW-B9-USA-P2,explicit_available,explicit_available,no_statement_located,explicit_available,explicit_available,SRC-B9-USA-005;SRC-B9-USA-001;SRC-B9-USA-023,INA 212(g) waiver; 42 CFR 34.8 reexamination by medical board on appeal; CDC panel TI Class A waiver for first-week-treatment applicants
+J-USA,PW-B9-USA-P1,explicit_available,no_statement_located,no_statement_located,explicit_available,explicit_available,SRC-B9-USA-005;SRC-B9-USA-001,waiver per INA 212 (NIV 212(d)(3) not extracted); 34.8 reexamination
+J-CAN,PW-B9-CAN-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,SRC-B9-CAN-008,not extracted
+J-AUS,PW-B9-AUS-P1,no_statement_located,no_statement_located,no_statement_located,explicit_available,no_statement_located,SRC-B9-AUS-030,PIC 4007(2) waiver of cost limb
+J-NZL,PW-B9-NZL-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,SRC-B9-NZL-013,medical waiver sections (A4.60/A4.65) not retrieved
+J-NZL,PW-B9-NZL-P2,no_statement_located,explicit_available,no_statement_located,no_statement_located,no_statement_located,SRC-B9-NZL-012,medical assessor referral
+J-PLW,PW-B9-PLW-P1,no_statement_located,explicit_available,no_statement_located,no_statement_located,no_statement_located,SRC-B9-PLW-068,§1364(b) medical-probability individual test
+J-WSM,PW-B9-WSM-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,SRC-B9-WSM-067,s23(5) Minister's prohibited-immigrant declaration not reviewable (not specific to health)
+J-GUY,PW-B9-GUY-P1,no_statement_located,no_statement_located,no_statement_located,no_statement_located,no_statement_located,SRC-B9-GUY-079,Minister's discretionary exemptions in Act not extracted

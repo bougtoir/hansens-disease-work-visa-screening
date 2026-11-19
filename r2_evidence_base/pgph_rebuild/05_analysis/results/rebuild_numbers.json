@@ -1,0 +1,726 @@
+{
+ "N": 199,
+ "frame": {
+  "UN member State": 193,
+  "Non-UN entity": 6
+ },
+ "categories": {
+  "A": 24,
+  "B": 46,
+  "D": 8,
+  "U": 121
+ },
+ "pct": {
+  "A": 12.1,
+  "B": 23.1,
+  "D": 4.0,
+  "U": 60.8
+ },
+ "documented_positive": 70,
+ "documented_positive_pct": 35.2,
+ "sufficient": 78,
+ "hd_named": 24,
+ "hd_named_names": [
+  "Bahrain",
+  "Barbados",
+  "Brunei",
+  "Canada",
+  "China",
+  "Guyana",
+  "Kazakhstan",
+  "Kuwait",
+  "Liberia",
+  "Malaysia",
+  "Maldives",
+  "Mauritius",
+  "Namibia",
+  "Oman",
+  "Qatar",
+  "Russia",
+  "Samoa",
+  "Saudi Arabia",
+  "Singapore",
+  "Taiwan",
+  "Thailand",
+  "UAE",
+  "United States",
+  "Zimbabwe"
+ ],
+ "hd_mechanisms": 19,
+ "hd_cannot_determine": 132,
+ "hd_not_established": 43,
+ "absence_names": [
+  "Argentina",
+  "Colombia",
+  "Hong Kong SAR",
+  "Italy",
+  "Peru",
+  "San Marino",
+  "Serbia",
+  "Spain"
+ ],
+ "freq": {
+  "HD": {
+   "named": 24,
+   "diagnostic": 21,
+   "pct_of_positive": 34.3
+  },
+  "TB": {
+   "named": 47,
+   "diagnostic": 30,
+   "pct_of_positive": 67.1
+  },
+  "HIV": {
+   "named": 34,
+   "diagnostic": 17,
+   "pct_of_positive": 48.6
+  },
+  "SYPH": {
+   "named": 22,
+   "diagnostic": 8,
+   "pct_of_positive": 31.4
+  },
+  "STI_OTHER": {
+   "named": 5,
+   "diagnostic": 5,
+   "pct_of_positive": 7.1
+  },
+  "HBV": {
+   "named": 23,
+   "diagnostic": 12,
+   "pct_of_positive": 32.9
+  },
+  "HCV": {
+   "named": 17,
+   "diagnostic": 8,
+   "pct_of_positive": 24.3
+  },
+  "MENTAL": {
+   "named": 36,
+   "diagnostic": 36,
+   "pct_of_positive": 51.4
+  },
+  "SUBST_DEP": {
+   "named": 14,
+   "diagnostic": 7,
+   "pct_of_positive": 20.0
+  },
+  "DRUG_TEST": {
+   "named": 2,
+   "diagnostic": 0,
+   "pct_of_positive": 2.9
+  },
+  "ALCOHOL": {
+   "named": 5,
+   "diagnostic": 4,
+   "pct_of_positive": 7.1
+  },
+  "MALARIA": {
+   "named": 14,
+   "diagnostic": 9,
+   "pct_of_positive": 20.0
+  },
+  "FILARIASIS": {
+   "named": 10,
+   "diagnostic": 8,
+   "pct_of_positive": 14.3
+  },
+  "OTHER_NAMED": {
+   "named": 25,
+   "diagnostic": 21,
+   "pct_of_positive": 35.7
+  },
+  "GENERIC_FITNESS": {
+   "named": 0,
+   "diagnostic": 0,
+   "pct_of_positive": 0.0
+  }
+ },
+ "exclusion": {
+  "disease_named": 24,
+  "medical_exam_required": 23,
+  "unfit_certificate_possible": 11,
+  "visa_refusal_inadmissibility": 14,
+  "entry_denial": 7,
+  "removal_deportation": 5,
+  "treatment_history_exclusion": 1,
+  "actual_documented_refusal": 1,
+  "work_authorisation_denial_or_revocation": 5
+ },
+ "exclusion_lists": {
+  "disease_named": [
+   "UAE",
+   "Bahrain",
+   "Barbados",
+   "Brunei",
+   "Canada",
+   "China",
+   "Guyana",
+   "Kazakhstan",
+   "Kuwait",
+   "Liberia",
+   "Maldives",
+   "Mauritius",
+   "Malaysia",
+   "Namibia",
+   "Oman",
+   "Qatar",
+   "Russia",
+   "Saudi Arabia",
+   "Singapore",
+   "Thailand",
+   "Taiwan",
+   "United States",
+   "Samoa",
+   "Zimbabwe"
+  ],
+  "medical_exam_required": [
+   "UAE",
+   "Bahrain",
+   "Barbados",
+   "Brunei",
+   "China",
+   "Guyana",
+   "Kazakhstan",
+   "Kuwait",
+   "Liberia",
+   "Maldives",
+   "Mauritius",
+   "Malaysia",
+   "Namibia",
+   "Oman",
+   "Qatar",
+   "Russia",
+   "Saudi Arabia",
+   "Singapore",
+   "Thailand",
+   "Taiwan",
+   "United States",
+   "Samoa",
+   "Zimbabwe"
+  ],
+  "unfit_certificate_possible": [
+   "UAE",
+   "Bahrain",
+   "Brunei",
+   "Kuwait",
+   "Maldives",
+   "Mauritius",
+   "Malaysia",
+   "Oman",
+   "Qatar",
+   "Saudi Arabia",
+   "Taiwan"
+  ],
+  "visa_refusal_inadmissibility": [
+   "UAE",
+   "Bahrain",
+   "Barbados",
+   "Guyana",
+   "Kuwait",
+   "Liberia",
+   "Oman",
+   "Qatar",
+   "Russia",
+   "Saudi Arabia",
+   "Thailand",
+   "Taiwan",
+   "United States",
+   "Zimbabwe"
+  ],
+  "entry_denial": [
+   "Barbados",
+   "Guyana",
+   "Kazakhstan",
+   "Liberia",
+   "Thailand",
+   "United States",
+   "Zimbabwe"
+  ],
+  "removal_deportation": [
+   "Bahrain",
+   "Guyana",
+   "Liberia",
+   "Malaysia",
+   "Thailand"
+  ],
+  "treatment_history_exclusion": [
+   "Brunei"
+  ],
+  "actual_documented_refusal": [
+   "Kuwait"
+  ],
+  "work_authorisation_denial_or_revocation": [
+   "Maldives",
+   "Mauritius",
+   "Malaysia",
+   "Thailand",
+   "Taiwan"
+  ]
+ },
+ "legal_counts": {
+  "unfit": {
+   "direct": 10,
+   "explicitly_unavailable": 0,
+   "linked": 1,
+   "documented": 11,
+   "generic_only_unknown": 1,
+   "not_located": 12,
+   "documented_mechanisms": 6
+  },
+  "visa_permit_refusal_inadmissibility": {
+   "direct": 8,
+   "explicitly_unavailable": 0,
+   "linked": 6,
+   "documented": 14,
+   "generic_only_unknown": 2,
+   "not_located": 8,
+   "documented_mechanisms": 9
+  },
+  "entry_denial": {
+   "direct": 7,
+   "explicitly_unavailable": 0,
+   "linked": 0,
+   "documented": 7,
+   "generic_only_unknown": 2,
+   "not_located": 15,
+   "documented_mechanisms": 7
+  },
+  "removal_deportation": {
+   "direct": 2,
+   "explicitly_unavailable": 0,
+   "linked": 3,
+   "documented": 5,
+   "generic_only_unknown": 2,
+   "not_located": 17,
+   "documented_mechanisms": 4
+  },
+  "work_authorisation_denial_revocation": {
+   "direct": 2,
+   "explicitly_unavailable": 0,
+   "linked": 3,
+   "documented": 5,
+   "generic_only_unknown": 3,
+   "not_located": 16,
+   "documented_mechanisms": 5
+  },
+  "appeal": {
+   "direct": 2,
+   "explicitly_unavailable": 0,
+   "linked": 0,
+   "documented": 2,
+   "generic_only_unknown": 2,
+   "not_located": 20,
+   "documented_mechanisms": 2
+  },
+  "waiver": {
+   "direct": 5,
+   "explicitly_unavailable": 1,
+   "linked": 0,
+   "documented": 5,
+   "generic_only_unknown": 0,
+   "not_located": 18,
+   "documented_mechanisms": 5
+  },
+  "retest": {
+   "direct": 4,
+   "explicitly_unavailable": 0,
+   "linked": 0,
+   "documented": 4,
+   "generic_only_unknown": 1,
+   "not_located": 19,
+   "documented_mechanisms": 3
+  }
+ },
+ "legal_lists": {
+  "unfit": {
+   "D": [
+    "UAE",
+    "Bahrain",
+    "Kuwait",
+    "Oman",
+    "Qatar",
+    "Saudi Arabia",
+    "Brunei",
+    "Maldives",
+    "Malaysia",
+    "Taiwan"
+   ],
+   "L": [
+    "Mauritius"
+   ],
+   "U": [
+    "Singapore"
+   ]
+  },
+  "visa_permit_refusal_inadmissibility": {
+   "D": [
+    "UAE",
+    "Barbados",
+    "Guyana",
+    "Liberia",
+    "Russia",
+    "Thailand",
+    "United States",
+    "Zimbabwe"
+   ],
+   "L": [
+    "Bahrain",
+    "Kuwait",
+    "Oman",
+    "Qatar",
+    "Saudi Arabia",
+    "Taiwan"
+   ],
+   "U": [
+    "China",
+    "Mauritius"
+   ]
+  },
+  "entry_denial": {
+   "D": [
+    "Barbados",
+    "Guyana",
+    "Kazakhstan",
+    "Liberia",
+    "Thailand",
+    "United States",
+    "Zimbabwe"
+   ],
+   "L": [],
+   "U": [
+    "China",
+    "Mauritius"
+   ]
+  },
+  "removal_deportation": {
+   "D": [
+    "Guyana",
+    "Liberia"
+   ],
+   "L": [
+    "Bahrain",
+    "Malaysia",
+    "Thailand"
+   ],
+   "U": [
+    "Barbados",
+    "Singapore"
+   ]
+  },
+  "work_authorisation_denial_revocation": {
+   "D": [
+    "Maldives",
+    "Taiwan"
+   ],
+   "L": [
+    "Mauritius",
+    "Malaysia",
+    "Thailand"
+   ],
+   "U": [
+    "Kazakhstan",
+    "Russia",
+    "Singapore"
+   ]
+  }
+ },
+ "post_treatment": {
+  "no_treatment_distinction_named_condition": 17,
+  "cannot_determine": 3,
+  "treatment_distinction_exempts_or_conditional": 3,
+  "explicit_post_treatment_exclusion": 1
+ },
+ "post_treatment_lists": {
+  "no_treatment_distinction_named_condition": [
+   "UAE",
+   "Bahrain",
+   "Barbados",
+   "Guyana",
+   "Kazakhstan",
+   "Kuwait",
+   "Liberia",
+   "Maldives",
+   "Malaysia",
+   "Namibia",
+   "Oman",
+   "Qatar",
+   "Russia",
+   "Saudi Arabia",
+   "Singapore",
+   "Thailand",
+   "Zimbabwe"
+  ],
+  "cannot_determine": [
+   "Canada",
+   "China",
+   "Samoa"
+  ],
+  "treatment_distinction_exempts_or_conditional": [
+   "Mauritius",
+   "Taiwan",
+   "United States"
+  ],
+  "explicit_post_treatment_exclusion": [
+   "Brunei"
+  ]
+ },
+ "safeguards": {
+  "waiver": 16,
+  "appeal_review": 4,
+  "retest": 8
+ },
+ "safeguards_any": 25,
+ "safeguards_A": {
+  "waiver": [
+   "Barbados",
+   "Mauritius",
+   "Taiwan",
+   "United States",
+   "Zimbabwe"
+  ],
+  "appeal_review": [
+   "Singapore",
+   "United States"
+  ],
+  "retest": [
+   "Maldives",
+   "Mauritius",
+   "Oman",
+   "Taiwan"
+  ]
+ },
+ "origin_triggers_A": {
+  "UAE": [
+   "occupation",
+   "programme_coverage"
+  ],
+  "Bahrain": [
+   "occupation",
+   "programme_coverage"
+  ],
+  "Barbados": [
+   "visa_class"
+  ],
+  "Brunei": [
+   "exam_country"
+  ],
+  "Canada": [
+   "prior_residence"
+  ],
+  "China": [
+   "visa_class"
+  ],
+  "Kazakhstan": [
+   "all_applicants"
+  ],
+  "Kuwait": [
+   "programme_coverage"
+  ],
+  "Liberia": [
+   "visa_class"
+  ],
+  "Maldives": [
+   "all_applicants",
+   "origin_endemic_country"
+  ],
+  "Mauritius": [
+   "nationality",
+   "residence_or_origin"
+  ],
+  "Malaysia": [
+   "visa_class"
+  ],
+  "Oman": [
+   "nationality",
+   "occupation",
+   "programme_coverage"
+  ],
+  "Qatar": [
+   "occupation",
+   "programme_coverage"
+  ],
+  "Russia": [
+   "visa class"
+  ],
+  "Saudi Arabia": [
+   "programme_coverage"
+  ],
+  "Singapore": [
+   "visa_class"
+  ],
+  "Taiwan": [
+   "nationality",
+   "origin"
+  ],
+  "Zimbabwe": [
+   "visa_class"
+  ]
+ },
+ "denials": {
+  "cases": 2,
+  "jurisdictions": [
+   "Kuwait"
+  ]
+ },
+ "region": {
+  "Africa": {
+   "n": 54,
+   "unresolved": 44,
+   "A": 4
+  },
+  "Americas": {
+   "n": 35,
+   "unresolved": 20,
+   "A": 4
+  },
+  "Asia": {
+   "n": 51,
+   "unresolved": 19,
+   "A": 14
+  },
+  "Europe": {
+   "n": 45,
+   "unresolved": 28,
+   "A": 1
+  },
+  "Oceania": {
+   "n": 14,
+   "unresolved": 10,
+   "A": 1
+  }
+ },
+ "batch": {
+  "B1 Sub-Saharan Africa (West/Central)": {
+   "n": 25,
+   "unresolved": 24
+  },
+  "B2 Sub-Saharan Africa (East/South)": {
+   "n": 23,
+   "unresolved": 14
+  },
+  "B3 Northern Africa + Western Asia": {
+   "n": 24,
+   "unresolved": 11
+  },
+  "B4 South/Central Asia": {
+   "n": 14,
+   "unresolved": 7
+  },
+  "B5 East/South-East Asia": {
+   "n": 19,
+   "unresolved": 7
+  },
+  "B6 Europe (North/West)": {
+   "n": 19,
+   "unresolved": 11
+  },
+  "B7 Europe (South/East)": {
+   "n": 26,
+   "unresolved": 17
+  },
+  "B8 Caribbean + Central America": {
+   "n": 21,
+   "unresolved": 12
+  },
+  "B9 South/North America + Oceania": {
+   "n": 28,
+   "unresolved": 18
+  }
+ },
+ "search": {
+  "queries": 1690,
+  "stage": {
+   "P2_local": 840,
+   "P1_english": 602,
+   "P3_applicability": 167,
+   "P4_ambiguity": 81
+  },
+  "opened_full_text": 577,
+  "sources": 802,
+  "sources_saved": 768,
+  "sources_english": 341,
+  "sources_other": 461,
+  "evidence_rows": 726,
+  "criterion": {
+   "diagnostic": 458,
+   "administrative_test": 254,
+   "behavioral": 13,
+   "administrative-test": 1
+  },
+  "provenance": {
+   "new_collected": 696,
+   "recovered_historical": 30
+  }
+ },
+ "validation": {
+  "items": 250,
+  "agree": 249,
+  "disagreements": [
+   {
+    "jurisdiction_id": "J-TWN",
+    "item_type": "TRIGGER",
+    "resolution": "original-language source contains an origin-based rule"
+   }
+  ]
+ },
+ "targeted_checks": [
+  {
+   "check_id": "TC-GCC",
+   "status": "verified_S1_2021_version; 2023_update_not_located"
+  },
+  {
+   "check_id": "TC-THA",
+   "status": "partially_verified (original language yes; official-gazette copy not retrieved)"
+  },
+  {
+   "check_id": "TC-GUY",
+   "status": "verified_in_force_as_of_2012_revision; post-2012_unverified"
+  },
+  {
+   "check_id": "TC-LBR",
+   "status": "unresolved (presumed in force; not verified against official gazette)"
+  }
+ ],
+ "burden": {
+  "all": {
+   "n_A": 23,
+   "n_other": 53,
+   "median_A": 1.58,
+   "median_other": 0.06,
+   "diff": 1.52,
+   "ci": [
+    0.55,
+    6.17
+   ],
+   "U": 825.0,
+   "p": 0.013,
+   "rank_biserial": 0.354,
+   "A_missing": [
+    "Taiwan"
+   ]
+  },
+  "gcc_once": {
+   "n_A": 18,
+   "n_other": 53,
+   "median_A": 1.1,
+   "median_other": 0.06,
+   "diff": 1.04,
+   "ci": [
+    0.34,
+    7.95
+   ],
+   "U": 649.0,
+   "p": 0.02,
+   "rank_biserial": 0.361,
+   "A_missing": [
+    "Taiwan"
+   ]
+  },
+  "coverage": 192,
+  "years": [
+   2019,
+   2025
+  ]
+ }
+}
