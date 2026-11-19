@@ -8,4 +8,5 @@ python3 pgph_rebuild/scripts/gate4d_legal_audit.py > /dev/null
 python3 pgph_rebuild/scripts/gate4c_post_treatment.py
 python3 pgph_rebuild/scripts/gate5_numbers.py > /dev/null
 python3 pgph_rebuild/scripts/gate6_figures.py
+python3 pgph_rebuild/scripts/test_legal_rectification_pipeline.py | tail -1
 sha256sum -c EXPECTED_OUTPUTS.sha256
