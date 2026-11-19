@@ -61,7 +61,7 @@ fig.tight_layout(); save(fig, 3)
 # Figure 4: HD matrix (from Table 1 rows)
 rows = SPR.table1_rows(); hdr, body = rows[0], rows[1:]
 CONS = ["visa refusal/inadmissibility", "entry denial", "removal", "work authorisation denied/revoked", "unfit certificate"]
-cols = ["Unfit\ncertificate", "Visa refusal/\ninadmissibility", "Entry\ndenial", "Removal", "Work auth.\ndenied/revoked", "Treatment\nstatus", "Waiver", "Appeal/\nreview", "Re-exam-\nination", "Origin-\nrelated rule"]
+cols = ["Unfit\ncertificate", "Visa/permit\nrefusal or\ninadmissibility", "Entry\ndenial", "Removal", "Work auth.\ndenied or\nrevoked", "Treatment\nstatus", "Waiver", "Appeal/\nreview", "Re-exam-\nination", "Origin-\nrelated rule"]
 def cell(txt, key):
     for part in txt.split("; "):
         if part.startswith(key): return "Yes" + (" (" + part.split(" (", 1)[1] if " (" in part else "")
@@ -74,7 +74,7 @@ for r in body:
                   r[4].replace("Treatment history excluded", "History\nexcluded").replace("Conditional/exempting", "Conditional/\nexempting").replace("No distinction", "None").replace("Cannot determine", "Cannot\ndetermine"),
                   cell(sg, "waiver"), cell(sg, "appeal"), cell(sg, "re-examination"), "Yes" if org else ""])
 cc = lambda v, j: ("#d5f5e3" if j in (6, 7, 8) else "#fdebd0" if j == 9 else "#f5b7b1") if v.startswith("Yes") else {"None": "#f5b7b1", "History\nexcluded": "#c0392b80", "Conditional/\nexempting": "#d5f5e3", "Cannot\ndetermine": "#eaecee"}.get(v, "#ffffff")
-cells = [[x.replace(" (", "\n(") for x in r] for r in cells]
+cells = [[x.replace(" (", "\n(").replace(", ", ",\n") for x in r] for r in cells]
 fig, ax = plt.subplots(figsize=(W, 7.2)); ax.axis("off")
 tb = ax.table(cellText=cells, rowLabels=[r[0] for r in body], colLabels=cols, cellColours=[[cc(x, j) for j, x in enumerate(r)] for r in cells], cellLoc="center", bbox=[0, 0, 1, 1])
 tb.auto_set_font_size(False); tb.set_fontsize(5.6)

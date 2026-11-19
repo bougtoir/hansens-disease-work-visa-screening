@@ -22,14 +22,15 @@ freq = {k: dict(named=int(fq.loc[k, "n_jurisdictions_named"]), diagnostic=int(fq
                 pct_of_positive=pct(int(fq.loc[k, "n_jurisdictions_named"]), pos)) for k in fq.index}
 exc_cols = [c for c in ex.columns if c not in ("jurisdiction_id", "evidence_ids", "consequence_text", "source_note", "consequence_basis")]
 exc = {c: int(ex[c].astype(bool).sum()) for c in exc_cols}
-la = pd.read_csv(RB / "05_analysis/LEGAL_CONSEQUENCE_AUDIT_INPUT.csv", dtype=str).fillna("")
+la = pd.read_csv(R / "LEGAL_CONSEQUENCE_AUDIT_RECTIFIED.csv", dtype=str).fillna("")  # frozen input + versioned rectifications (gate4d)
 legal_lists = {k: {c: [name[j] for j in la[la[k] == c].jurisdiction_id] for c in ("D", "L", "U")} for k in ("unfit", "visa_permit_refusal_inadmissibility", "entry_denial", "removal_deportation", "work_authorisation_denial_revocation")}
 legal_counts = pd.read_csv(R / "LEGAL_CONSEQUENCE_COUNTS.csv").set_index("consequence").drop(columns="auto_screen").to_dict("index")
 exc_lists = {c: [name[j] for j in ex[ex[c].astype(bool)].jurisdiction_id] for c in exc_cols}
 ptc = pt.post_treatment_status.value_counts().to_dict(); ptl = {k: [name[j] for j in pt[pt.post_treatment_status == k].jurisdiction_id] for k in ptc}
+sg = pd.concat([sg, rd(RB / "05_analysis/SAFEGUARDS_RECTIFICATIONS_20261119.csv").drop(columns=["rectification_id", "rationale"])], ignore_index=True)  # added pathway rows, raw file unchanged
 yes = lambda c: sg[c].str.startswith("explicit_available")
 saf = {c: sorted({name[j] for j in sg[yes(c)].jurisdiction_id}) for c in ("waiver", "appeal_review", "retest")}
-saf_A = {c: sorted({name[j] for j in sg[yes(c) & sg.jurisdiction_id.isin(A)].jurisdiction_id}) for c in saf}
+saf_A = {c: sorted(name[j] for j in la[la[{"appeal_review": "appeal"}.get(c, c)].isin(["D", "L"])].jurisdiction_id) for c in saf}  # category A: provision-level legal audit
 ogA = og[og.jurisdiction_id.isin(A) & (og.trigger_type != "none") & (og.trigger_type != "")]
 origin = {name[j]: sorted(set(g.trigger_type)) for j, g in ogA.groupby("jurisdiction_id")}
 stage = sl.stage.value_counts().to_dict()

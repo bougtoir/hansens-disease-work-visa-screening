@@ -23,6 +23,18 @@ STATUS = {"EXPLICIT OPERATIVE RULE", "LINKED PROCEDURAL RULE", "REASONED BUT UNC
           "NOT LOCATED", "HISTORICAL-ONLY", "CONTRADICTORY"}
 
 au = pd.read_csv(RB / "05_analysis/LEGAL_CONSEQUENCE_AUDIT_INPUT.csv", dtype=str).fillna("")
+# Versioned rectifications (2026-11-19 legal re-check) applied on top of the frozen audit input; provenance kept per row.
+rx = pd.read_csv(RB / "05_analysis/LEGAL_RECTIFICATIONS_20261119.csv", dtype=str).fillna("")
+rxe = pd.read_csv(RB / "05_analysis/LEGAL_RECTIFICATION_EVIDENCE.csv", dtype=str).fillna("").set_index("evidence_id")
+au["rectifications"] = ""; au["legacy_codes"] = ""
+for x in rx.itertuples():
+    i = au.index[au.jurisdiction_id == x.jurisdiction_id]
+    assert len(i) == 1 and au.at[i[0], x.field] == x.old_value, (x.rectification_id, x.field, au.loc[i, x.field].tolist())
+    assert all(e in rxe.index for e in x.evidence_ids.split(";")), x.rectification_id
+    au.at[i[0], x.field] = x.new_value
+    au.at[i[0], "rectifications"] = ";".join(filter(None, [au.at[i[0], "rectifications"], x.rectification_id]))
+    au.at[i[0], "legacy_codes"] = ";".join(filter(None, [au.at[i[0], "legacy_codes"], f"{x.field}={x.old_value}"]))
+    au.at[i[0], "key_evidence_ids"] = ";".join(dict.fromkeys(au.at[i[0], "key_evidence_ids"].split(";") + x.evidence_ids.split(";")))
 ev = pd.read_csv(M / "EVIDENCE_ROWS_ADJUDICATED.csv", dtype=str).fillna("").set_index("evidence_id")
 sr = pd.read_csv(M / "SOURCE_REGISTER.csv", dtype=str).fillna("").drop_duplicates("source_id").set_index("source_id")
 tc = pd.read_csv(RB / "07_audits/TARGETED_CHECKS/SOURCES.csv", dtype=str).fillna("").set_index("file")
@@ -38,7 +50,7 @@ for c in list(CONS) + SAFE:
 assert all(s.split(" (")[0] in STATUS for s in au.evidence_status), set(au.evidence_status)
 for ids in au.key_evidence_ids:
     for e in ids.split(";"):
-        assert e.startswith(("TC-", "OBSERVED")) or e in ev.index, e
+        assert e.startswith(("TC-", "OBSERVED")) or e in ev.index or e in rxe.index, e
 
 rows = []
 for r in au.itertuples():
@@ -57,11 +69,16 @@ for r in au.itertuples():
                         status_in_force=c.status, local_path=";".join("pgph_rebuild/07_audits/TARGETED_CHECKS/sources/" + f for f in fs),
                         sha256=";".join(tc.loc[f, "sha256"] for f in fs), url=";".join(tc.loc[f, "url"] for f in fs),
                         redistribution=";".join(tc.loc[f, "redistribution"] for f in fs))
+        elif e in rxe.index:
+            x = rxe.loc[e]
+            base.update(evidence_id=e, source_id="LEGAL_RECTIFICATION_EVIDENCE.csv", document=x.locator, locator=x.locator, quote_original=x.quote,
+                        quote_english=x.quote, status_in_force=x.temporal_validity, url=x.url, local_path=x.local_path, sha256=x.sha256)
         else:
             base.update(evidence_id=e, source_id="OBSERVED_DENIALS.csv")
         base.update(ai_second_pass="", final_adjudication="see code columns", human_signoff="PENDING")
         rows.append(base)
 pd.DataFrame(rows).to_csv(QC / "R2_LEGAL_CONSEQUENCE_SOURCE_AUDIT.csv", index=False)
+au.to_csv(RES / "LEGAL_CONSEQUENCE_AUDIT_RECTIFIED.csv", index=False)
 
 out = auto.set_index("jurisdiction_id"); a = au.set_index("jurisdiction_id")
 for k, col in CONS.items():
@@ -71,12 +88,14 @@ out["consequence_text"] = "audited (gate4d); regex screen kept in EXCLUSION_CONS
 out.reset_index().to_csv(RES / "EXCLUSION_CONSEQUENCES.csv", index=False)
 
 cnt = []
-gcc_once = lambda s: s[~s.index.isin(a.index[a.mechanism_id == "GCC-WAFID"][1:])]
+gcc = a.index[a.mechanism_id == "GCC-WAFID"]
+def n_mech(v):  # GCC-WAFID counted once if any member documents the consequence
+    d = v.isin(["D", "L"]); return int(d[~d.index.isin(gcc)].sum() + d[gcc].any())
 for k in list(CONS) + SAFE:
     v = a[k]
     cnt.append(dict(consequence=k, direct=int((v == "D").sum()), explicitly_unavailable=int((v == "D-unavailable").sum()), linked=int((v == "L").sum()),
                     documented=int(v.isin(["D", "L"]).sum()), generic_only_unknown=int((v == "U").sum()),
-                    not_located=int((v == "N").sum()), documented_mechanisms=int(gcc_once(v).isin(["D", "L"]).sum()),
+                    not_located=int((v == "N").sum()), documented_mechanisms=n_mech(v),
                     auto_screen=int((auto.set_index("jurisdiction_id")[CONS[k]] == "True").sum()) if k in CONS else None))
 pd.DataFrame(cnt).to_csv(RES / "LEGAL_CONSEQUENCE_COUNTS.csv", index=False)
 print(pd.DataFrame(cnt).to_string(index=False))

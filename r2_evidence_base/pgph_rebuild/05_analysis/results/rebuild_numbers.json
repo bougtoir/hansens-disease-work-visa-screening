@@ -140,12 +140,12 @@
   "disease_named": 24,
   "medical_exam_required": 23,
   "unfit_certificate_possible": 11,
-  "visa_refusal_inadmissibility": 14,
-  "entry_denial": 7,
-  "removal_deportation": 5,
+  "visa_refusal_inadmissibility": 9,
+  "entry_denial": 6,
+  "removal_deportation": 4,
   "treatment_history_exclusion": 1,
   "actual_documented_refusal": 1,
-  "work_authorisation_denial_or_revocation": 5
+  "work_authorisation_denial_or_revocation": 7
  },
  "exclusion_lists": {
   "disease_named": [
@@ -214,19 +214,14 @@
   ],
   "visa_refusal_inadmissibility": [
    "UAE",
-   "Bahrain",
    "Barbados",
    "Guyana",
-   "Kuwait",
    "Liberia",
-   "Oman",
-   "Qatar",
    "Russia",
    "Saudi Arabia",
    "Thailand",
    "Taiwan",
-   "United States",
-   "Zimbabwe"
+   "United States"
   ],
   "entry_denial": [
    "Barbados",
@@ -234,11 +229,9 @@
    "Kazakhstan",
    "Liberia",
    "Thailand",
-   "United States",
-   "Zimbabwe"
+   "United States"
   ],
   "removal_deportation": [
-   "Bahrain",
    "Guyana",
    "Liberia",
    "Malaysia",
@@ -251,6 +244,8 @@
    "Kuwait"
   ],
   "work_authorisation_denial_or_revocation": [
+   "Bahrain",
+   "Brunei",
    "Maldives",
    "Mauritius",
    "Malaysia",
@@ -271,63 +266,63 @@
   "visa_permit_refusal_inadmissibility": {
    "direct": 8,
    "explicitly_unavailable": 0,
-   "linked": 6,
-   "documented": 14,
-   "generic_only_unknown": 2,
+   "linked": 1,
+   "documented": 9,
+   "generic_only_unknown": 7,
    "not_located": 8,
-   "documented_mechanisms": 9
+   "documented_mechanisms": 8
   },
   "entry_denial": {
-   "direct": 7,
+   "direct": 6,
    "explicitly_unavailable": 0,
    "linked": 0,
-   "documented": 7,
-   "generic_only_unknown": 2,
+   "documented": 6,
+   "generic_only_unknown": 3,
    "not_located": 15,
-   "documented_mechanisms": 7
+   "documented_mechanisms": 6
   },
   "removal_deportation": {
    "direct": 2,
    "explicitly_unavailable": 0,
-   "linked": 3,
-   "documented": 5,
-   "generic_only_unknown": 2,
-   "not_located": 17,
+   "linked": 2,
+   "documented": 4,
+   "generic_only_unknown": 4,
+   "not_located": 16,
    "documented_mechanisms": 4
   },
   "work_authorisation_denial_revocation": {
    "direct": 2,
    "explicitly_unavailable": 0,
-   "linked": 3,
-   "documented": 5,
+   "linked": 5,
+   "documented": 7,
    "generic_only_unknown": 3,
-   "not_located": 16,
-   "documented_mechanisms": 5
+   "not_located": 14,
+   "documented_mechanisms": 7
   },
   "appeal": {
-   "direct": 2,
+   "direct": 3,
    "explicitly_unavailable": 0,
    "linked": 0,
-   "documented": 2,
-   "generic_only_unknown": 2,
-   "not_located": 20,
-   "documented_mechanisms": 2
+   "documented": 3,
+   "generic_only_unknown": 3,
+   "not_located": 18,
+   "documented_mechanisms": 3
   },
   "waiver": {
    "direct": 5,
    "explicitly_unavailable": 1,
    "linked": 0,
    "documented": 5,
-   "generic_only_unknown": 0,
-   "not_located": 18,
+   "generic_only_unknown": 1,
+   "not_located": 17,
    "documented_mechanisms": 5
   },
   "retest": {
-   "direct": 4,
+   "direct": 3,
    "explicitly_unavailable": 0,
    "linked": 0,
-   "documented": 4,
-   "generic_only_unknown": 1,
+   "documented": 3,
+   "generic_only_unknown": 2,
    "not_located": 19,
    "documented_mechanisms": 3
   }
@@ -356,25 +351,25 @@
   "visa_permit_refusal_inadmissibility": {
    "D": [
     "UAE",
+    "Saudi Arabia",
     "Barbados",
     "Guyana",
     "Liberia",
     "Russia",
     "Thailand",
-    "United States",
-    "Zimbabwe"
+    "United States"
    ],
    "L": [
+    "Taiwan"
+   ],
+   "U": [
     "Bahrain",
     "Kuwait",
     "Oman",
     "Qatar",
-    "Saudi Arabia",
-    "Taiwan"
-   ],
-   "U": [
     "China",
-    "Mauritius"
+    "Mauritius",
+    "Zimbabwe"
    ]
   },
   "entry_denial": {
@@ -384,13 +379,13 @@
     "Kazakhstan",
     "Liberia",
     "Thailand",
-    "United States",
-    "Zimbabwe"
+    "United States"
    ],
    "L": [],
    "U": [
     "China",
-    "Mauritius"
+    "Mauritius",
+    "Zimbabwe"
    ]
   },
   "removal_deportation": {
@@ -399,13 +394,14 @@
     "Liberia"
    ],
    "L": [
-    "Bahrain",
     "Malaysia",
     "Thailand"
    ],
    "U": [
+    "Bahrain",
     "Barbados",
-    "Singapore"
+    "Singapore",
+    "Zimbabwe"
    ]
   },
   "work_authorisation_denial_revocation": {
@@ -414,6 +410,8 @@
     "Taiwan"
    ],
    "L": [
+    "Bahrain",
+    "Brunei",
     "Mauritius",
     "Malaysia",
     "Thailand"
@@ -466,27 +464,27 @@
   ]
  },
  "safeguards": {
-  "waiver": 16,
-  "appeal_review": 4,
+  "waiver": 17,
+  "appeal_review": 5,
   "retest": 8
  },
- "safeguards_any": 25,
+ "safeguards_any": 26,
  "safeguards_A": {
   "waiver": [
    "Barbados",
+   "Guyana",
    "Mauritius",
    "Taiwan",
-   "United States",
-   "Zimbabwe"
+   "United States"
   ],
   "appeal_review": [
+   "Guyana",
    "Singapore",
    "United States"
   ],
   "retest": [
    "Maldives",
    "Mauritius",
-   "Oman",
    "Taiwan"
   ]
  },
